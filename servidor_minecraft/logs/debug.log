@@ -10548,3 +10548,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [16Jul2025 02:19:23.408] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
 [16Jul2025 02:19:23.408] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
 [16Jul2025 02:19:23.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@402e601f[id=<null>,name=crushedtitan191,properties={},legacy=false] (/127.206.217.224:52209) lost connection: Disconnected
+[16Jul2025 02:22:13.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 02:22:13.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 02:27:13.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 02:27:13.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
