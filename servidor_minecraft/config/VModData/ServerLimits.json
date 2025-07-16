@@ -1,8 +1,4 @@
 {
-  "extensionDistance" : {
-    "minValue" : 0.001,
-    "maxValue" : 3.4028235E38
-  },
   "maxForce" : {
     "minValue" : -3.4028235E38,
     "maxValue" : 3.4028235E38
@@ -10,6 +6,10 @@
   "fixedDistance" : {
     "minValue" : -3.4028235E38,
     "maxValue" : 3.4028235E38
+  },
+  "maxDistance" : {
+    "minValue" : 0.0,
+    "maxValue" : 100.0
   },
   "stiffness" : {
     "minValue" : -3.4028235E38,
@@ -23,13 +23,13 @@
     "minValue" : 0.001,
     "maxValue" : 3.4028235E38
   },
-  "gearRatio" : {
+  "extensionDistance" : {
     "minValue" : 0.001,
     "maxValue" : 3.4028235E38
   },
-  "precisePlacementAssistSides" : {
-    "minValue" : 2,
-    "maxValue" : 11
+  "gearRatio" : {
+    "minValue" : 0.001,
+    "maxValue" : 3.4028235E38
   },
   "channelLength" : {
     "sizeLimit" : 50
@@ -62,13 +62,17 @@
     "minValue" : 0.001,
     "maxValue" : 10.0
   },
+  "stripRadius" : {
+    "minValue" : 0.0,
+    "maxValue" : 10.0
+  },
   "massLimit" : {
     "minValue" : 4.9E-324,
     "maxValue" : 1.7976931348623157E308
   },
-  "stripRadius" : {
-    "minValue" : 0.0,
-    "maxValue" : 10.0
+  "precisePlacementAssistSides" : {
+    "minValue" : 2,
+    "maxValue" : 11
   },
   "distanceFromBlock" : {
     "minValue" : 0.0,
@@ -77,10 +81,6 @@
   "sensorScale" : {
     "minValue" : 0.001,
     "maxValue" : 10.0
-  },
-  "maxDistance" : {
-    "minValue" : 0.0,
-    "maxValue" : 100.0
   },
   "scale" : {
     "minValue" : 0.001,

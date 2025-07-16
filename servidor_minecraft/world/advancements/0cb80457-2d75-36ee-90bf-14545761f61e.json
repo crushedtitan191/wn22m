@@ -1,72 +1,111 @@
 {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-07-16 21:38:30 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
-      "0": "2025-07-16 21:20:17 +0000"
+      "0": "2025-07-16 21:37:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-07-16 21:17:31 +0000"
+      "unlock_right_away": "2025-07-16 21:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-07-16 21:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-16 21:43:20 +0000"
     },
     "done": true
   },
   "vs_eureka:recipes/balloon_color": {
     "criteria": {
-      "has_red_balloon": "2025-07-16 21:20:17 +0000",
-      "has_black_balloon": "2025-07-16 21:20:17 +0000",
-      "has_lime_balloon": "2025-07-16 21:20:17 +0000",
-      "has_cyan_balloon": "2025-07-16 21:20:17 +0000",
-      "has_light_blue_balloon": "2025-07-16 21:20:17 +0000",
-      "has_gray_balloon": "2025-07-16 21:20:17 +0000",
-      "has_pink_balloon": "2025-07-16 21:20:17 +0000",
-      "has_light_gray_balloon": "2025-07-16 21:20:17 +0000",
-      "has_white_balloon": "2025-07-16 21:20:17 +0000",
-      "has_blue_balloon": "2025-07-16 21:20:17 +0000",
-      "has_yellow_balloon": "2025-07-16 21:20:17 +0000",
-      "has_purple_balloon": "2025-07-16 21:20:17 +0000",
-      "has_orange_balloon": "2025-07-16 21:20:17 +0000",
-      "has_brown_balloon": "2025-07-16 21:20:17 +0000",
-      "has_green_balloon": "2025-07-16 21:20:17 +0000",
-      "has_magenta_balloon": "2025-07-16 21:20:17 +0000"
+      "has_red_balloon": "2025-07-16 21:37:49 +0000",
+      "has_black_balloon": "2025-07-16 21:37:49 +0000",
+      "has_lime_balloon": "2025-07-16 21:37:49 +0000",
+      "has_cyan_balloon": "2025-07-16 21:37:49 +0000",
+      "has_light_blue_balloon": "2025-07-16 21:37:49 +0000",
+      "has_gray_balloon": "2025-07-16 21:37:49 +0000",
+      "has_pink_balloon": "2025-07-16 21:37:49 +0000",
+      "has_light_gray_balloon": "2025-07-16 21:37:49 +0000",
+      "has_white_balloon": "2025-07-16 21:37:49 +0000",
+      "has_blue_balloon": "2025-07-16 21:37:49 +0000",
+      "has_yellow_balloon": "2025-07-16 21:37:49 +0000",
+      "has_purple_balloon": "2025-07-16 21:37:49 +0000",
+      "has_orange_balloon": "2025-07-16 21:37:49 +0000",
+      "has_brown_balloon": "2025-07-16 21:37:49 +0000",
+      "has_green_balloon": "2025-07-16 21:37:49 +0000",
+      "has_magenta_balloon": "2025-07-16 21:37:49 +0000"
     },
     "done": true
   },
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
-      "has_leather": "2025-07-16 21:20:17 +0000"
+      "has_leather": "2025-07-16 21:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-16 21:43:18 +0000"
     },
     "done": true
   },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
-      "has_gold": "2025-07-16 21:20:17 +0000"
+      "has_gold": "2025-07-16 21:37:49 +0000"
     },
     "done": true
   },
   "vs_eureka:recipes/balloon_paper": {
     "criteria": {
-      "has_paper": "2025-07-16 21:20:17 +0000"
+      "has_paper": "2025-07-16 21:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-16 21:43:20 +0000"
     },
     "done": true
   },
   "vs_eureka:recipes/balloon_membrane": {
     "criteria": {
-      "has_membrane": "2025-07-16 21:20:17 +0000"
+      "has_membrane": "2025-07-16 21:37:49 +0000"
     },
     "done": true
   },
   "create_connected:root": {
     "criteria": {
-      "0": "2025-07-16 21:20:17 +0000"
+      "0": "2025-07-16 21:37:49 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-07-16 21:17:32 +0000"
+      "minecraft:river": "2025-07-16 21:42:43 +0000",
+      "minecraft:forest": "2025-07-16 21:42:50 +0000",
+      "minecraft:jungle": "2025-07-16 21:36:32 +0000",
+      "minecraft:plains": "2025-07-16 21:40:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-16 21:43:20 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
