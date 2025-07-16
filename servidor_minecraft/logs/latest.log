@@ -1,30 +1,30 @@
-[16Jul2025 01:01:29.499] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Jul2025 01:01:29.503] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[16Jul2025 01:01:30.130] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Jul2025 01:01:30.175] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wn22m/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Jul2025 01:01:30.501] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 01:01:30.503] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 01:01:30.504] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 01:01:30.506] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jul2025 01:01:30.999] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 30 dependencies adding them to mods collection
-[16Jul2025 01:01:33.141] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Jul2025 01:01:33.277] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Jul2025 01:01:33.470] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Jul2025 01:01:33.477] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Jul2025 01:01:33.481] [main/WARN] [mixin/]: Reference map 'mixins.crusty_chunks.refmap.json' for mixins.crusty_chunks.json could not be read. If this is a development environment you can ignore this message
-[16Jul2025 01:01:33.784] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
-[16Jul2025 01:01:33.788] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor
-[16Jul2025 01:01:34.966] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[16Jul2025 01:01:35.015] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
-[16Jul2025 01:01:35.016] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
-[16Jul2025 01:01:35.016] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor
-[16Jul2025 01:01:35.380] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
-[16Jul2025 01:01:35.405] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
-[16Jul2025 01:01:35.407] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
-[16Jul2025 01:01:35.409] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
-[16Jul2025 01:01:35.416] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
-[16Jul2025 01:01:35.417] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
-[16Jul2025 01:01:35.602] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
+[16Jul2025 05:20:52.030] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Jul2025 05:20:52.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[16Jul2025 05:20:56.242] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Jul2025 05:20:56.398] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wn22m/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Jul2025 05:20:56.929] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 05:20:56.930] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 05:20:56.932] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 05:20:56.933] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/wn22m/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jul2025 05:20:57.691] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 30 dependencies adding them to mods collection
+[16Jul2025 05:21:00.079] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Jul2025 05:21:00.197] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Jul2025 05:21:00.568] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jul2025 05:21:00.574] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jul2025 05:21:00.576] [main/WARN] [mixin/]: Reference map 'mixins.crusty_chunks.refmap.json' for mixins.crusty_chunks.json could not be read. If this is a development environment you can ignore this message
+[16Jul2025 05:21:00.868] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
+[16Jul2025 05:21:00.868] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor
+[16Jul2025 05:21:01.773] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[16Jul2025 05:21:01.801] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
+[16Jul2025 05:21:01.802] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
+[16Jul2025 05:21:01.802] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor
+[16Jul2025 05:21:02.043] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[16Jul2025 05:21:02.084] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[16Jul2025 05:21:02.086] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[16Jul2025 05:21:02.089] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[16Jul2025 05:21:02.092] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[16Jul2025 05:21:02.095] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[16Jul2025 05:21:02.468] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinException: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorInterface.prepareMethod(MixinPreProcessorInterface.java:65) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.prepare(MixinPreProcessorStandard.java:187) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
@@ -62,187 +62,66 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:35.657] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[16Jul2025 01:01:42.700] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Jul2025 01:01:42.700] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Jul2025 01:01:43.952] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$znc000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[16Jul2025 01:01:44.234] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[16Jul2025 01:01:44.433] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[16Jul2025 01:01:44.485] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
-[16Jul2025 01:01:44.830] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[16Jul2025 01:01:44.851] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 7 milliseconds
-[16Jul2025 01:01:44.884] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[16Jul2025 01:01:44.891] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[16Jul2025 01:01:44.891] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[16Jul2025 01:01:44.894] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[16Jul2025 01:01:44.899] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[16Jul2025 01:01:44.901] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[16Jul2025 01:01:44.905] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[16Jul2025 01:01:44.908] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[16Jul2025 01:01:44.909] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[16Jul2025 01:01:49.116] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wn22m/servidor_minecraft/config/copycats-common.toml is not correct. Correcting
-[16Jul2025 01:01:49.117] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableMigration was corrected from null to its default, false. 
-[16Jul2025 01:01:49.117] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stacked_half_layer was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_stairs was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_byte was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_slice was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_wooden_pressure_plate was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_block was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_shaft was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_large_cogwheel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.118] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fence was corrected from null to its default, true. 
-[16Jul2025 01:01:49.119] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_wall was corrected from null to its default, true. 
-[16Jul2025 01:01:49.119] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_cogwheel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.119] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_step was corrected from null to its default, true. 
-[16Jul2025 01:01:49.119] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_sliding_door was corrected from null to its default, true. 
-[16Jul2025 01:01:49.119] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_folding_door was corrected from null to its default, true. 
-[16Jul2025 01:01:49.119] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slope_layer was corrected from null to its default, true. 
-[16Jul2025 01:01:49.120] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_light_weighted_pressure_plate was corrected from null to its default, true. 
-[16Jul2025 01:01:49.121] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stairs was corrected from null to its default, true. 
-[16Jul2025 01:01:49.121] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fence_gate was corrected from null to its default, true. 
-[16Jul2025 01:01:49.121] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slab was corrected from null to its default, true. 
-[16Jul2025 01:01:49.121] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_board was corrected from null to its default, true. 
-[16Jul2025 01:01:49.121] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_wooden_button was corrected from null to its default, true. 
-[16Jul2025 01:01:49.121] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_trapdoor was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stone_pressure_plate was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_pane was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_half_panel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slice was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_beam was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_door was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_iron_door was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_byte_panel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_corner_slice was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_flat_pane was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_ghost_block was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fluid_pipe was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_heavy_weighted_pressure_plate was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_iron_trapdoor was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_half_layer was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stone_button was corrected from null to its default, true. 
-[16Jul2025 01:01:49.123] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_ladder was corrected from null to its default, true. 
-[16Jul2025 01:01:49.124] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_layer was corrected from null to its default, true. 
-[16Jul2025 01:01:49.124] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slope was corrected from null to its default, true. 
-[16Jul2025 01:01:49.124] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_slope was corrected from null to its default, true. 
-[16Jul2025 01:01:49.125] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_half_layer was corrected from null to its default, true. 
-[16Jul2025 01:01:49.127] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:01:49.127] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.slopes was corrected from null to its default, true. 
-[16Jul2025 01:01:49.127] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.multistates was corrected from null to its default, true. 
-[16Jul2025 01:01:49.128] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.stackables was corrected from null to its default, true. 
-[16Jul2025 01:01:49.128] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.redstone was corrected from null to its default, true. 
-[16Jul2025 01:01:49.128] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.functional was corrected from null to its default, true. 
-[16Jul2025 01:01:49.128] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.create was corrected from null to its default, true. 
-[16Jul2025 01:01:49.138] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wn22m/servidor_minecraft/config/create_connected-common.toml is not correct. Correcting
-[16Jul2025 01:01:49.138] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key migrateCopycatsOnBlockUpdate was corrected from null to its default, true. 
-[16Jul2025 01:01:49.139] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key migrateCopycatsOnInitialize was corrected from null to its default, true. 
-[16Jul2025 01:01:49.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:01:49.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.fluid_vessel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.bamboo_window was corrected from null to its default, true. 
-[16Jul2025 01:01:49.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.item_silo was corrected from null to its default, true. 
-[16Jul2025 01:01:49.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.inverted_clutch was corrected from null to its default, true. 
-[16Jul2025 01:01:49.140] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.empty_fan_catalyst was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.parallel_gearbox was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.inventory_access_port was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.cherry_window was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.centrifugal_clutch was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slab was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.overstress_clutch was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.brake was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_block was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fence_gate was corrected from null to its default, true. 
-[16Jul2025 01:01:49.141] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stairs was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.large_crank_wheel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.brass_gearbox was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_step was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_wall was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.six_way_gearbox was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.crank_wheel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.encased_chain_cogwheel was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.sequenced_pulse_generator was corrected from null to its default, true. 
-[16Jul2025 01:01:49.142] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.freewheel_clutch was corrected from null to its default, true. 
-[16Jul2025 01:01:49.143] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.shear_pin was corrected from null to its default, true. 
-[16Jul2025 01:01:49.143] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.inverted_gearshift was corrected from null to its default, true. 
-[16Jul2025 01:01:49.143] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.linked_transmitter was corrected from null to its default, true. 
-[16Jul2025 01:01:49.143] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_beam was corrected from null to its default, true. 
-[16Jul2025 01:01:49.144] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_board was corrected from null to its default, true. 
-[16Jul2025 01:01:49.144] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.inventory_bridge was corrected from null to its default, true. 
-[16Jul2025 01:01:49.144] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fence was corrected from null to its default, true. 
-[16Jul2025 01:01:49.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:01:49.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.kinetic was corrected from null to its default, true. 
-[16Jul2025 01:01:49.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.redstone was corrected from null to its default, true. 
-[16Jul2025 01:01:49.146] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.logistics was corrected from null to its default, true. 
-[16Jul2025 01:01:49.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.copycats was corrected from null to its default, true. 
-[16Jul2025 01:01:49.147] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.palette was corrected from null to its default, true. 
-[16Jul2025 01:01:49.153] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wn22m/servidor_minecraft/config/pointblank-common.toml is not correct. Correcting
-[16Jul2025 01:01:49.154] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key autoReloadEnabled was corrected from null to its default, CREATIVE. 
-[16Jul2025 01:01:49.155] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key scopeAimingMouseSensitivity was corrected from null to its default, 0.4. 
-[16Jul2025 01:01:49.156] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key resetAutoFirePitchEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key knockback was corrected from null to its default, 1.0. 
-[16Jul2025 01:01:49.157] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key particleEffectsEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.158] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key armsDealerHouse was corrected from null to its default, 10. 
-[16Jul2025 01:01:49.159] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key emeraldExchangeRate was corrected from null to its default, 100.0. 
-[16Jul2025 01:01:49.160] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key thirdPersonArmPoseAlwaysOn was corrected from null to its default, true. 
-[16Jul2025 01:01:49.161] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pipScopeRefreshRate was corrected from null to its default, 2. 
-[16Jul2025 01:01:49.162] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pipScopesEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.163] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pipScopeColorBalanceRed was corrected from null to its default, 90. 
-[16Jul2025 01:01:49.164] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pipScopeColorBalanceGreen was corrected from null to its default, 105. 
-[16Jul2025 01:01:49.165] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pipScopeColorBalanceBlue was corrected from null to its default, 110. 
-[16Jul2025 01:01:49.166] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customShadersEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.167] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key explosionDestroyBlocksEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.168] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemDropChance was corrected from null to its default, 0.35. 
-[16Jul2025 01:01:49.169] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxItemDropCount was corrected from null to its default, 7. 
-[16Jul2025 01:01:49.170] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key bulletsBreakGlassEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.171] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hitscanDamageModifier was corrected from null to its default, 1.0. 
-[16Jul2025 01:01:49.172] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key headshotDamageModifier was corrected from null to its default, 3.0. 
-[16Jul2025 01:01:49.173] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crosshair was corrected from null to its default, DEFAULT. 
-[16Jul2025 01:01:49.174] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key goreEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.175] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advancedIrisIntegrationEnabled was corrected from null to its default, true. 
-[16Jul2025 01:01:49.180] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wn22m/servidor_minecraft/config/railways-common.toml is not correct. Correcting
-[16Jul2025 01:01:49.181] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key registerMissingTracks was corrected from null to its default, false. 
-[16Jul2025 01:01:49.181] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableDatafixer was corrected from null to its default, false. 
-[16Jul2025 01:01:49.184] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/wn22m/servidor_minecraft/config/create-common.toml is not correct. Correcting
-[16Jul2025 01:01:49.186] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:01:49.186] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.disableWorldGen was corrected from null to its default, false. 
-[16Jul2025 01:01:49.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
-[16Jul2025 01:01:49.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.0+mc.1.20.1-forge Target: null
-[16Jul2025 01:01:49.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Jul2025 01:01:50.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[16Jul2025 01:01:50.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
-[16Jul2025 01:01:50.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: OUTDATED Current: 0.9.4-mc1.20.1 Target: 1.1.7-mc1.20.1
-[16Jul2025 01:01:50.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[16Jul2025 01:01:50.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[16Jul2025 01:01:53.784] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Jul2025 01:01:57.104] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wn22m/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
-[16Jul2025 01:01:57.104] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wn22m/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
-[16Jul2025 01:01:57.150] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack pointblank_resources, loading it automatically
-[16Jul2025 01:01:58.570] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag crusty_chunks:firestarter as it is missing following references: burnt:firestarter (from Warium 1.0.5.jar)
-[16Jul2025 01:01:59.414] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_catwalk as it's serializer returned null
-[16Jul2025 01:01:59.426] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs as it's serializer returned null
-[16Jul2025 01:01:59.436] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_from_conversion as it's serializer returned null
-[16Jul2025 01:01:59.441] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:chunk_loader
+[16Jul2025 05:21:02.523] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[16Jul2025 05:21:11.422] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Jul2025 05:21:11.423] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Jul2025 05:21:12.340] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$znc000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16Jul2025 05:21:12.911] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[16Jul2025 05:21:13.007] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[16Jul2025 05:21:13.214] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[16Jul2025 05:21:13.234] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 2 milliseconds
+[16Jul2025 05:21:13.245] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[16Jul2025 05:21:13.247] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[16Jul2025 05:21:13.249] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[16Jul2025 05:21:13.250] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[16Jul2025 05:21:13.251] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[16Jul2025 05:21:13.252] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[16Jul2025 05:21:13.252] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[16Jul2025 05:21:13.254] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[16Jul2025 05:21:13.257] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[16Jul2025 05:21:13.351] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[16Jul2025 05:21:18.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[16Jul2025 05:21:18.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.0+mc.1.20.1-forge Target: null
+[16Jul2025 05:21:18.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Jul2025 05:21:18.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[16Jul2025 05:21:18.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[16Jul2025 05:21:18.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: OUTDATED Current: 0.9.4-mc1.20.1 Target: 1.1.7-mc1.20.1
+[16Jul2025 05:21:18.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[16Jul2025 05:21:18.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[16Jul2025 05:21:22.247] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Jul2025 05:21:22.315] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+jei (version 15.20.0.106 -> MISSING)
+Things may not work well.
+[16Jul2025 05:21:25.254] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wn22m/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[16Jul2025 05:21:25.255] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/wn22m/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[16Jul2025 05:21:25.354] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:jei
+[16Jul2025 05:21:26.752] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag crusty_chunks:firestarter as it is missing following references: burnt:firestarter (from Warium 1.0.5.jar)
+[16Jul2025 05:21:27.536] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_catwalk as it's serializer returned null
+[16Jul2025 05:21:27.547] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs as it's serializer returned null
+[16Jul2025 05:21:27.560] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_from_conversion as it's serializer returned null
+[16Jul2025 05:21:27.564] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:chunk_loader
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:nether_start'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -258,25 +137,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:nether_start'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.465] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_beams as it's serializer returned null
-[16Jul2025 01:01:59.472] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:hammer
+[16Jul2025 05:21:27.587] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_beams as it's serializer returned null
+[16Jul2025 05:21:27.595] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:hammer
 com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:hammer'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -292,29 +171,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:hammer'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_t
+[16Jul2025 05:21:27.605] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_t
 com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:hammer'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -330,32 +209,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:hammer'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.488] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate as it's serializer returned null
-[16Jul2025 01:01:59.497] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block as it's serializer returned null
-[16Jul2025 01:01:59.498] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board as it's serializer returned null
-[16Jul2025 01:01:59.501] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_steps as it's serializer returned null
-[16Jul2025 01:01:59.504] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:fuel/fuel_paste_with_campfire
+[16Jul2025 05:21:27.613] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate as it's serializer returned null
+[16Jul2025 05:21:27.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block as it's serializer returned null
+[16Jul2025 05:21:27.626] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board as it's serializer returned null
+[16Jul2025 05:21:27.628] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_steps as it's serializer returned null
+[16Jul2025 05:21:27.631] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:fuel/fuel_paste_with_campfire
 com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:raw_fuel_powder'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -371,31 +250,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:raw_fuel_powder
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.507] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence as it's serializer returned null
-[16Jul2025 01:01:59.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam as it's serializer returned null
-[16Jul2025 01:01:59.510] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_t_charcoal
+[16Jul2025 05:21:27.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence as it's serializer returned null
+[16Jul2025 05:21:27.636] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam as it's serializer returned null
+[16Jul2025 05:21:27.638] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_t_charcoal
 com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:hammer'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -411,24 +290,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:hammer'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.512] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:fuel/raw_fuel_powder
+[16Jul2025 05:21:27.639] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:fuel/raw_fuel_powder
 com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:raw_fuel_powder'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -444,22 +323,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:raw_fuel_powder
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall as it's serializer returned null
-[16Jul2025 01:01:59.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step as it's serializer returned null
-[16Jul2025 01:01:59.527] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdieselgenerators:smithing/chemical_sprayer_lighter
+[16Jul2025 05:21:27.647] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall as it's serializer returned null
+[16Jul2025 05:21:27.652] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step as it's serializer returned null
+[16Jul2025 05:21:27.655] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createdieselgenerators:smithing/chemical_sprayer_lighter
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -475,30 +354,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_box as it's serializer returned null
-[16Jul2025 01:01:59.532] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab as it's serializer returned null
-[16Jul2025 01:01:59.533] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:fuel/fuel_paste
+[16Jul2025 05:21:27.659] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_box as it's serializer returned null
+[16Jul2025 05:21:27.661] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab as it's serializer returned null
+[16Jul2025 05:21:27.662] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:fuel/fuel_paste
 com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:raw_fuel_powder'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.SimpleCookingSerializer.m_6729_(SimpleCookingSerializer.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -514,24 +393,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'vs_tournament:raw_fuel_powder
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.537] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_forge_charcoal
+[16Jul2025 05:21:27.666] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_forge_charcoal
 com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:146) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:146) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -547,26 +426,26 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_panels as it's serializer returned null
-[16Jul2025 01:01:59.562] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_from_slabs as it's serializer returned null
-[16Jul2025 01:01:59.566] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_forge
+[16Jul2025 05:21:27.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_panels as it's serializer returned null
+[16Jul2025 05:21:27.688] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_from_slabs as it's serializer returned null
+[16Jul2025 05:21:27.692] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vs_tournament:coal_dust_forge
 com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:146) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23150!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:146) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23148!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -582,435 +461,54 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2025 01:01:59.573] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
-[16Jul2025 01:01:59.725] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3120 advancements
-[16Jul2025 01:02:02.511] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
-[16Jul2025 01:02:02.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[16Jul2025 01:02:02.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Jul2025 01:02:02.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Jul2025 01:02:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Jul2025 01:02:02.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Jul2025 01:02:02.885] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Jul2025 01:02:02.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Jul2025 01:02:02.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Jul2025 01:02:02.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Jul2025 01:02:02.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Jul2025 01:02:02.971] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[16Jul2025 01:02:02.971] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:02.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[16Jul2025 01:02:02.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[16Jul2025 01:02:02.972] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[16Jul2025 01:02:02.974] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/ritchiesprojectilelib-server.toml is not correct. Correcting
-[16Jul2025 01:02:02.975] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:02.975] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.maxChunksForceLoaded was corrected from null to its default, 64. 
-[16Jul2025 01:02:02.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.maxChunksLoadedEachTick was corrected from null to its default, 32. 
-[16Jul2025 01:02:02.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.projectileChunkAge was corrected from null to its default, 3. 
-[16Jul2025 01:02:02.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityLoadTimeout was corrected from null to its default, 10. 
-[16Jul2025 01:02:02.980] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/createdieselgenerators-server.toml is not correct. Correcting
-[16Jul2025 01:02:02.980] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:02.981] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Diesel Engines was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:02.981] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Diesel Engines.Turbocharged Diesel Engine Speed Multiplier was corrected from null to its default, 2.0. 
-[16Jul2025 01:02:02.982] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Diesel Engines.Turbocharged Diesel Engine Burn Rate Multiplier was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:02.982] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Diesel Engines.Normal Diesel Engines was corrected from null to its default, true. 
-[16Jul2025 01:02:02.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Diesel Engines.Modular Diesel Engines was corrected from null to its default, true. 
-[16Jul2025 01:02:02.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Diesel Engines.Huge Diesel Engines was corrected from null to its default, true. 
-[16Jul2025 01:02:02.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Diesel Engines.Engines can be filled with a bucket was corrected from null to its default, false. 
-[16Jul2025 01:02:02.984] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:02.984] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.Infinite oil deposits was corrected from null to its default, false. 
-[16Jul2025 01:02:02.984] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.Normal oil chunks oil amount multiplier was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:02.985] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.High oil chunks oil amount multiplier was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:02.985] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.Max Oil Scanner Level was corrected from null to its default, 10000. 
-[16Jul2025 01:02:02.986] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.Normal oil chunks percentage was corrected from null to its default, 10.0. 
-[16Jul2025 01:02:02.986] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.High oil chunks percentage was corrected from null to its default, 10.0. 
-[16Jul2025 01:02:02.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.Distillation was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:02.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.Distillation.Wide Distillation Tower Distill Faster was corrected from null to its default, true. 
-[16Jul2025 01:02:02.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Oil Config.Distillation.Height of Distillation Tower level was corrected from null to its default, 1. 
-[16Jul2025 01:02:02.988] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Max Oil Barrel Width was corrected from null to its default, 3. 
-[16Jul2025 01:02:02.988] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Capacity of Canisters was corrected from null to its default, 4000. 
-[16Jul2025 01:02:02.988] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Capacity Addition of Capacity Enchantment in Canisters was corrected from null to its default, 1000. 
-[16Jul2025 01:02:02.989] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Canister can be filled by spouts was corrected from null to its default, true. 
-[16Jul2025 01:02:02.989] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Capacity of Tools requiring Fluids was corrected from null to its default, 200. 
-[16Jul2025 01:02:02.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Capacity Addition of Tools with Capacity Enchantment was corrected from null to its default, 10. 
-[16Jul2025 01:02:02.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Server Configs.Combustibles blow up was corrected from null to its default, true. 
-[16Jul2025 01:02:02.995] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/create_connected-server.toml is not correct. Correcting
-[16Jul2025 01:02:02.995] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematicsNestingDepth was corrected from null to its default, 5. 
-[16Jul2025 01:02:02.996] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key applicationRemainingItemFix was corrected from null to its default, true. 
-[16Jul2025 01:02:03.000] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vesselBoilerStressMultiplier was corrected from null to its default, 0.8125. 
-[16Jul2025 01:02:03.003] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vesselHeatMultiplier was corrected from null to its default, 0.5. 
-[16Jul2025 01:02:03.004] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vesselMaxLevel was corrected from null to its default, 18. 
-[16Jul2025 01:02:03.005] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.005] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.005] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.005] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.inverted_gearshift was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.006] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.six_way_gearbox was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.006] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.centrifugal_clutch was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.006] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.overstress_clutch was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.006] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.brake was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.006] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.encased_chain_cogwheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.006] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.inverted_clutch was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.007] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.parallel_gearbox was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.007] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.freewheel_clutch was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.007] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.brass_gearbox was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.008] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.impact.shear_pin was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.009] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.capacity was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.010] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.capacity.crank_wheel was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.011] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.capacity.large_crank_wheel was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.011] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressValues.v2.brakeActiveStress was corrected from null to its default, 16384.0. 
-[16Jul2025 01:02:03.015] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/clockworkadditions-server.toml is not correct. Correcting
-[16Jul2025 01:02:03.016] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.016] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.cwastressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.016] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.cwastressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.017] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.cwastressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.017] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.cwastressValues.v2.impact.kinetic_flap_bearing was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.018] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.cwastressValues.v2.capacity was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.018] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.cwastressValues.v2.capacity.handlebar was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.018] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.cwastressValues.v2.capacity.mechanical_pedals was corrected from null to its default, 10.0. 
-[16Jul2025 01:02:03.019] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.handlebar was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.019] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.handlebar.handleMaxAngle was corrected from null to its default, 50.0. 
-[16Jul2025 01:02:03.020] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.handlebar.handleSpeed was corrected from null to its default, 16. 
-[16Jul2025 01:02:03.020] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.handlebar.pedalsSeatHightOffset was corrected from null to its default, 0.5. 
-[16Jul2025 01:02:03.021] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key clockwork was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.022] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key clockwork.encasedFanForceMultiplier was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:03.023] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key redstone was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.024] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key redstone.gyroscopicCircuit was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.024] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key redstone.gyroscopicCircuit.sensitivityToRotation was corrected from null to its default, 0.5. 
-[16Jul2025 01:02:03.024] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key redstone.gyroscopicCircuit.sensitivityToAngularVelocity was corrected from null to its default, 0.5. 
-[16Jul2025 01:02:03.026] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key extendables was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.026] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key extendables.constantVelocityJointMaxLength was corrected from null to its default, 3.0. 
-[16Jul2025 01:02:03.027] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key extendables.hoseMaxLength was corrected from null to its default, 3.0. 
-[16Jul2025 01:02:03.036] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/createbigcannons-server.toml is not correct. Correcting
-[16Jul2025 01:02:03.036] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key failure was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.036] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key failure.disableAllCannonFailure was corrected from null to its default, false. 
-[16Jul2025 01:02:03.037] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key failure.squibChance was corrected from null to its default, 0.25. 
-[16Jul2025 01:02:03.037] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key failure.barrelChargeBurstChance was corrected from null to its default, 0.20000000298023224. 
-[16Jul2025 01:02:03.038] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key failure.failureExplosionPower was corrected from null to its default, 2.0. 
-[16Jul2025 01:02:03.039] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key failure.overloadBurstChance was corrected from null to its default, 0.5. 
-[16Jul2025 01:02:03.040] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key failure.interruptedIgnitionChance was corrected from null to its default, 0.33000001311302185. 
-[16Jul2025 01:02:03.044] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.044] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.projectilesCanBounce was corrected from null to its default, true. 
-[16Jul2025 01:02:03.044] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.baseProjectileBounceChance was corrected from null to its default, 0.33000001311302185. 
-[16Jul2025 01:02:03.044] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.baseProjectileFluidBounceChance was corrected from null to its default, 0.8999999761581421. 
-[16Jul2025 01:02:03.045] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.minimumVelocityForPenetrationBonus was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:03.045] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.penetrationBonusScale was corrected from null to its default, 0.10000000149011612. 
-[16Jul2025 01:02:03.045] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.damageRestriction was corrected from null to its default, ALL_DAMAGE. 
-[16Jul2025 01:02:03.045] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.projectilesChangeSurroundings was corrected from null to its default, true. 
-[16Jul2025 01:02:03.046] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.chunkloading was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.046] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.chunkloading.projectilesCanChunkload was corrected from null to its default, true. 
-[16Jul2025 01:02:03.046] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.chunkloading.smokeCloudsCanChunkload was corrected from null to its default, true. 
-[16Jul2025 01:02:03.046] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.chunkloading.splashFarAway was corrected from null to its default, true. 
-[16Jul2025 01:02:03.046] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.bigCannonMunitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.047] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.bigCannonMunitions.trailType was corrected from null to its default, SHORT. 
-[16Jul2025 01:02:03.047] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.bigCannonMunitions.allBigCannonProjectilesAreTracers was corrected from null to its default, false. 
-[16Jul2025 01:02:03.047] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.bigCannonMunitions.quickFiringBreechItemPickupDelay was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.047] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.bigCannonMunitions.quickFiringBreechItemGoesToInventory was corrected from null to its default, false. 
-[16Jul2025 01:02:03.048] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.fuzes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.048] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.fuzes.impactFuzeDetonationChance was corrected from null to its default, 0.6700000166893005. 
-[16Jul2025 01:02:03.048] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.fuzes.impactFuzeDurability was corrected from null to its default, 3. 
-[16Jul2025 01:02:03.048] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.fuzes.proximityFuzeArmingTime was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.048] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.groupedMunitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.048] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.groupedMunitions.fluidBlobBlockEffectChance was corrected from null to its default, 0.5. 
-[16Jul2025 01:02:03.049] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.autocannonMunitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.049] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.autocannonMunitions.trailType was corrected from null to its default, SHORT. 
-[16Jul2025 01:02:03.049] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.autocannonMunitions.allAutocannonProjectilesAreTracers was corrected from null to its default, false. 
-[16Jul2025 01:02:03.049] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.autocannonMunitions.autocannonAmmoContainerAutocannonRoundCapacity was corrected from null to its default, 16. 
-[16Jul2025 01:02:03.049] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key munitions.autocannonMunitions.autocannonAmmoContainerMachineGunRoundCapacity was corrected from null to its default, 64. 
-[16Jul2025 01:02:03.052] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.052] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.maxCannonLength was corrected from null to its default, 64. 
-[16Jul2025 01:02:03.053] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.quickfiringBreechLoadingCooldown was corrected from null to its default, 40. 
-[16Jul2025 01:02:03.053] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.quickfiringBreechOpeningCooldown was corrected from null to its default, 5. 
-[16Jul2025 01:02:03.053] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.bigCannonRecoilScale was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.054] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.autocannonRecoilScale was corrected from null to its default, 0.5. 
-[16Jul2025 01:02:03.054] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.dropMortar was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.054] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.dropMortar.dropMortarDelay was corrected from null to its default, 5. 
-[16Jul2025 01:02:03.054] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.dropMortar.dropMortarItemCooldown was corrected from null to its default, 40. 
-[16Jul2025 01:02:03.055] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.loadingTools was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.055] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.loadingTools.deployersCanUseLoadingTools was corrected from null to its default, false. 
-[16Jul2025 01:02:03.055] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.loadingTools.ramRodReach was corrected from null to its default, 5. 
-[16Jul2025 01:02:03.055] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.loadingTools.ramRodStrength was corrected from null to its default, 3. 
-[16Jul2025 01:02:03.055] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.loadingTools.wormReach was corrected from null to its default, 5. 
-[16Jul2025 01:02:03.056] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.loadingTools.loadingToolHungerConsumption was corrected from null to its default, 2.5. 
-[16Jul2025 01:02:03.056] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.loadingTools.loadingToolCooldown was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.059] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.carriage was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.060] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.carriage.carriageSpeed was corrected from null to its default, 0.03999999910593033. 
-[16Jul2025 01:02:03.060] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.carriage.carriageTurnRate was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:03.061] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.carriage.cannonWeightAffectsCarriageSpeed was corrected from null to its default, true. 
-[16Jul2025 01:02:03.061] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.displayLink was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.061] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.displayLink.shouldDisplayCannonRotation was corrected from null to its default, true. 
-[16Jul2025 01:02:03.061] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.displayLink.shouldDisplayContainedMunitions was corrected from null to its default, true. 
-[16Jul2025 01:02:03.062] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.bigCannonScreenShake was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.062] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cannons.bigCannonScreenShake.blastDistanceMultiplier was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.064] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.065] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxLoaderLength was corrected from null to its default, 64. 
-[16Jul2025 01:02:03.066] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.enableIntersectionLoading was corrected from null to its default, false. 
-[16Jul2025 01:02:03.066] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.067] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.067] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.068] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.bronze_sliding_breech was corrected from null to its default, 12.0. 
-[16Jul2025 01:02:03.068] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cannon_loader was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.069] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.steel_screw_breech was corrected from null to its default, 16.0. 
-[16Jul2025 01:02:03.069] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cannon_drill was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.069] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cast_iron_sliding_breech was corrected from null to its default, 16.0. 
-[16Jul2025 01:02:03.069] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.steel_sliding_breech was corrected from null to its default, 32.0. 
-[16Jul2025 01:02:03.070] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.nethersteel_screw_breech was corrected from null to its default, 40.0. 
-[16Jul2025 01:02:03.070] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cannon_builder was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.074] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafting was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.074] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafting.maxCannonCastHeight was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.074] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafting.maxCannonDrillLength was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.075] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafting.maxCannonBuilderLength was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.075] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafting.maxCannonBuilderRange was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.075] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafting.builtUpCannonHeatingTime was corrected from null to its default, 6000. 
-[16Jul2025 01:02:03.089] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/railways-server.toml is not correct. Correcting
-[16Jul2025 01:02:03.090] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.091] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.strictCoupler was corrected from null to its default, false. 
-[16Jul2025 01:02:03.091] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.flipDistantSwitches was corrected from null to its default, true. 
-[16Jul2025 01:02:03.091] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.switchPlacementRange was corrected from null to its default, 64. 
-[16Jul2025 01:02:03.092] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.creeperTrackDamage was corrected from null to its default, false. 
-[16Jul2025 01:02:03.092] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.handcarHungerMultiplier was corrected from null to its default, 0.009999999776482582. 
-[16Jul2025 01:02:03.094] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key semaphores was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.095] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key semaphores.simplifiedPlacement was corrected from null to its default, true. 
-[16Jul2025 01:02:03.095] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key semaphores.flipYellowOrder was corrected from null to its default, false. 
-[16Jul2025 01:02:03.096] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.096] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors.mustOwnBoundTrain was corrected from null to its default, false. 
-[16Jul2025 01:02:03.097] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors.maxConductorVentLength was corrected from null to its default, 64. 
-[16Jul2025 01:02:03.097] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key conductors.whistleRebindRate was corrected from null to its default, 10. 
-[16Jul2025 01:02:03.100] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key journeymap was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.100] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key journeymap.farTrainSyncTicks was corrected from null to its default, 200. 
-[16Jul2025 01:02:03.101] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key journeymap.nearTrainSyncTicks was corrected from null to its default, 5. 
-[16Jul2025 01:02:03.103] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key realism was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.104] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key realism.realisticTrains was corrected from null to its default, false. 
-[16Jul2025 01:02:03.104] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key realism.realisticFuelTanks was corrected from null to its default, true. 
-[16Jul2025 01:02:03.108] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/create-server.toml is not correct. Correcting
-[16Jul2025 01:02:03.109] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infrastructure was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.109] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infrastructure.tickrateSyncTimer was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.111] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.112] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.bulkPressing was corrected from null to its default, false. 
-[16Jul2025 01:02:03.112] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.bulkCutting was corrected from null to its default, false. 
-[16Jul2025 01:02:03.112] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowBrewingInMixer was corrected from null to its default, true. 
-[16Jul2025 01:02:03.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowShapelessInMixer was corrected from null to its default, true. 
-[16Jul2025 01:02:03.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowShapedSquareInPress was corrected from null to its default, true. 
-[16Jul2025 01:02:03.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowRegularCraftingInCrafter was corrected from null to its default, true. 
-[16Jul2025 01:02:03.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.maxFireworkIngredientsInCrafter was corrected from null to its default, 9. 
-[16Jul2025 01:02:03.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowStonecuttingOnSaw was corrected from null to its default, true. 
-[16Jul2025 01:02:03.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowWoodcuttingOnSaw was corrected from null to its default, true. 
-[16Jul2025 01:02:03.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowCastingBySpout was corrected from null to its default, true. 
-[16Jul2025 01:02:03.114] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.displayLogStrippingRecipes was corrected from null to its default, true. 
-[16Jul2025 01:02:03.114] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.lightSourceCountForRefinedRadiance was corrected from null to its default, 10. 
-[16Jul2025 01:02:03.114] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.enableRefinedRadianceRecipe was corrected from null to its default, true. 
-[16Jul2025 01:02:03.115] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.enableShadowSteelRecipe was corrected from null to its default, true. 
-[16Jul2025 01:02:03.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.118] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.disableStress was corrected from null to its default, false. 
-[16Jul2025 01:02:03.118] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxBeltLength was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.119] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.crushingDamage was corrected from null to its default, 4. 
-[16Jul2025 01:02:03.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxRotationSpeed was corrected from null to its default, 256. 
-[16Jul2025 01:02:03.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.ignoreDeployerAttacks was corrected from null to its default, CREEPERS. 
-[16Jul2025 01:02:03.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.kineticValidationFrequency was corrected from null to its default, 60. 
-[16Jul2025 01:02:03.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.crankHungerMultiplier was corrected from null to its default, 0.009999999776482582. 
-[16Jul2025 01:02:03.122] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.minimumWindmillSails was corrected from null to its default, 8. 
-[16Jul2025 01:02:03.122] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.windmillSailsPerRPM was corrected from null to its default, 8. 
-[16Jul2025 01:02:03.123] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxEjectorDistance was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.123] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.ejectorScanInterval was corrected from null to its default, 120. 
-[16Jul2025 01:02:03.123] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.123] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanPushDistance was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanPullDistance was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanBlockCheckRate was corrected from null to its default, 30. 
-[16Jul2025 01:02:03.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanRotationArgmax was corrected from null to its default, 256. 
-[16Jul2025 01:02:03.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanProcessingTime was corrected from null to its default, 150. 
-[16Jul2025 01:02:03.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxBlocksMoved was corrected from null to its default, 2048. 
-[16Jul2025 01:02:03.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxDataSize was corrected from null to its default, 2000000. 
-[16Jul2025 01:02:03.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxChassisRange was corrected from null to its default, 16. 
-[16Jul2025 01:02:03.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxPistonPoles was corrected from null to its default, 64. 
-[16Jul2025 01:02:03.126] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxRopeLength was corrected from null to its default, 256. 
-[16Jul2025 01:02:03.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxCartCouplingLength was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.rollerFillDepth was corrected from null to its default, 12. 
-[16Jul2025 01:02:03.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.survivalContraptionPickup was corrected from null to its default, true. 
-[16Jul2025 01:02:03.129] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.movableSpawners was corrected from null to its default, NO_PICKUP. 
-[16Jul2025 01:02:03.129] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.amethystMovement was corrected from null to its default, NO_PICKUP. 
-[16Jul2025 01:02:03.130] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.movableObsidian was corrected from null to its default, UNMOVABLE. 
-[16Jul2025 01:02:03.130] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.movableReinforcedDeepslate was corrected from null to its default, UNMOVABLE. 
-[16Jul2025 01:02:03.131] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.moveItemsToStorage was corrected from null to its default, true. 
-[16Jul2025 01:02:03.131] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.harvestPartiallyGrown was corrected from null to its default, false. 
-[16Jul2025 01:02:03.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.harvesterReplants was corrected from null to its default, true. 
-[16Jul2025 01:02:03.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.minecartContraptionInContainers was corrected from null to its default, false. 
-[16Jul2025 01:02:03.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.stabiliseStableContraptions was corrected from null to its default, false. 
-[16Jul2025 01:02:03.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.mediumSpeed was corrected from null to its default, 30.0. 
-[16Jul2025 01:02:03.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.fastSpeed was corrected from null to its default, 100.0. 
-[16Jul2025 01:02:03.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.mediumStressImpact was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.highStressImpact was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.134] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.mediumCapacity was corrected from null to its default, 256.0. 
-[16Jul2025 01:02:03.134] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.highCapacity was corrected from null to its default, 1024.0. 
-[16Jul2025 01:02:03.135] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.136] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.136] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.136] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.deployer was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.millstone was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cuckoo_clock was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:03.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.speedometer was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.copper_backtank was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_saw was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.flywheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.adjustable_chain_gearshift was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.138] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_pump was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.138] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.crushing_wheel was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.138] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_mixer was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.140] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.gantry_shaft was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.140] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_arm was corrected from null to its default, 2.0. 
-[16Jul2025 01:02:03.141] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_shaft was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.141] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_press was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.large_cogwheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_drill was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_large_cogwheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.stressometer was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.143] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.shaft was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.143] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.gearshift was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.143] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.sequenced_gearshift was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.143] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.weighted_ejector was corrected from null to its default, 2.0. 
-[16Jul2025 01:02:03.144] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_cogwheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.144] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.gearbox was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.144] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.elevator_pulley was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.144] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_crafter was corrected from null to its default, 2.0. 
-[16Jul2025 01:02:03.145] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.display_board was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.145] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_piston was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.145] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_bearing was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.146] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.clockwork_bearing was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.146] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.encased_chain_drive was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.146] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.clutch was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.146] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.encased_fan was corrected from null to its default, 2.0. 
-[16Jul2025 01:02:03.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.rope_pulley was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.rotation_speed_controller was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.netherite_backtank was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mysterious_cuckoo_clock was corrected from null to its default, 1.0. 
-[16Jul2025 01:02:03.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_large_cogwheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_shaft was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.turntable was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.sticky_mechanical_piston was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cogwheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.belt was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_cogwheel was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.hose_pulley was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.copper_valve_handle was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.hand_crank was corrected from null to its default, 8.0. 
-[16Jul2025 01:02:03.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.steam_engine was corrected from null to its default, 1024.0. 
-[16Jul2025 01:02:03.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.creative_motor was corrected from null to its default, 16384.0. 
-[16Jul2025 01:02:03.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.large_water_wheel was corrected from null to its default, 128.0. 
-[16Jul2025 01:02:03.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.water_wheel was corrected from null to its default, 32.0. 
-[16Jul2025 01:02:03.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.windmill_bearing was corrected from null to its default, 512.0. 
-[16Jul2025 01:02:03.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fluidTankCapacity was corrected from null to its default, 8. 
-[16Jul2025 01:02:03.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fluidTankMaxHeight was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.mechanicalPumpRange was corrected from null to its default, 16. 
-[16Jul2025 01:02:03.156] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.hosePulleyRange was corrected from null to its default, 128. 
-[16Jul2025 01:02:03.156] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.hosePulleyBlockThreshold was corrected from null to its default, 10000. 
-[16Jul2025 01:02:03.156] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fillInfinite was corrected from null to its default, false. 
-[16Jul2025 01:02:03.156] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.bottomlessFluidMode was corrected from null to its default, ALLOW_BY_TAG. 
-[16Jul2025 01:02:03.156] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fluidFillPlaceFluidSourceBlocks was corrected from null to its default, true. 
-[16Jul2025 01:02:03.156] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.pipesPlaceFluidSourceBlocks was corrected from null to its default, true. 
-[16Jul2025 01:02:03.160] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.160] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.defaultExtractionTimer was corrected from null to its default, 8. 
-[16Jul2025 01:02:03.161] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.psiTimeout was corrected from null to its default, 60. 
-[16Jul2025 01:02:03.161] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.mechanicalArmRange was corrected from null to its default, 5. 
-[16Jul2025 01:02:03.161] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.linkRange was corrected from null to its default, 256. 
-[16Jul2025 01:02:03.161] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.displayLinkRange was corrected from null to its default, 64. 
-[16Jul2025 01:02:03.162] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.vaultCapacity was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.162] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.brassTunnelTimer was corrected from null to its default, 10. 
-[16Jul2025 01:02:03.162] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.seatHostileMobs was corrected from null to its default, true. 
-[16Jul2025 01:02:03.167] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.167] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.creativePrintIncludesAir was corrected from null to its default, false. 
-[16Jul2025 01:02:03.168] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.maxSchematics was corrected from null to its default, 10. 
-[16Jul2025 01:02:03.168] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.maxTotalSchematicSize was corrected from null to its default, 256. 
-[16Jul2025 01:02:03.168] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.maxSchematicPacketSize was corrected from null to its default, 1024. 
-[16Jul2025 01:02:03.168] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicIdleTimeout was corrected from null to its default, 600. 
-[16Jul2025 01:02:03.168] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicannon was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.169] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicannon.schematicannonDelay was corrected from null to its default, 10. 
-[16Jul2025 01:02:03.169] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicannon.schematicannonShotsPerGunpowder was corrected from null to its default, 400. 
-[16Jul2025 01:02:03.173] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.173] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.maxSymmetryWandRange was corrected from null to its default, 50. 
-[16Jul2025 01:02:03.173] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.placementAssistRange was corrected from null to its default, 12. 
-[16Jul2025 01:02:03.173] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.toolboxRange was corrected from null to its default, 10. 
-[16Jul2025 01:02:03.174] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.airInBacktank was corrected from null to its default, 900. 
-[16Jul2025 01:02:03.174] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.enchantedBacktankCapacity was corrected from null to its default, 300. 
-[16Jul2025 01:02:03.174] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.maxExtendoGripActions was corrected from null to its default, 1000. 
-[16Jul2025 01:02:03.174] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.maxPotatoCannonShots was corrected from null to its default, 200. 
-[16Jul2025 01:02:03.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainsCauseDamage was corrected from null to its default, true. 
-[16Jul2025 01:02:03.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.maxTrackPlacementLength was corrected from null to its default, 32. 
-[16Jul2025 01:02:03.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.maxAssemblyLength was corrected from null to its default, 128. 
-[16Jul2025 01:02:03.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.maxBogeyCount was corrected from null to its default, 20. 
-[16Jul2025 01:02:03.178] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.manualTrainSpeedModifier was corrected from null to its default, 0.75. 
-[16Jul2025 01:02:03.178] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.179] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats.trainTopSpeed was corrected from null to its default, 28.0. 
-[16Jul2025 01:02:03.179] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats.trainTurningTopSpeed was corrected from null to its default, 14.0. 
-[16Jul2025 01:02:03.179] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats.trainAcceleration was corrected from null to its default, 3.0. 
-[16Jul2025 01:02:03.180] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.180] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats.poweredTrainTopSpeed was corrected from null to its default, 40.0. 
-[16Jul2025 01:02:03.180] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats.poweredTrainTurningTopSpeed was corrected from null to its default, 20.0. 
-[16Jul2025 01:02:03.181] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats.poweredTrainAcceleration was corrected from null to its default, 3.0. 
-[16Jul2025 01:02:03.186] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/vs_clockwork-server.toml is not correct. Correcting
-[16Jul2025 01:02:03.186] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.187] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics.propellorRPMPerSail was corrected from null to its default, 8. 
-[16Jul2025 01:02:03.187] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics.balloonRange was corrected from null to its default, 4096. 
-[16Jul2025 01:02:03.187] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics.cwstressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.187] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics.cwstressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.188] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics.cwstressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[16Jul2025 01:02:03.188] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics.cwstressValues.v2.impact.flap_bearing was corrected from null to its default, 4.0. 
-[16Jul2025 01:02:03.188] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cwkinetics.cwstressValues.v2.impact.redstone_resistor was corrected from null to its default, 0.0. 
-[16Jul2025 01:02:03.192] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/trackwork-server.toml is not correct. Correcting
-[16Jul2025 01:02:03.193] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enableTrackStress was corrected from null to its default, false. 
-[16Jul2025 01:02:03.193] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stressMultiplier was corrected from null to its default, 0.019999999552965164. 
-[16Jul2025 01:02:03.194] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxTrackRPM was corrected from null to its default, 256. 
-[16Jul2025 01:02:03.195] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enableTrackThrow was corrected from null to its default, false. 
-[16Jul2025 01:02:03.195] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wheelPairDistance was corrected from null to its default, 7. 
-[16Jul2025 01:02:03.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Jul2025 01:02:03.678] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
-[16Jul2025 01:02:07.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Jul2025 01:02:09.448] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[16Jul2025 01:02:10.449] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[16Jul2025 01:02:10.495] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:10.806] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:10.936] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:10.944] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:10.956] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:10.972] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:10.990] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:11.002] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:11.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:11.451] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[16Jul2025 01:02:11.567] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:12.061] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:12.458] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[16Jul2025 01:02:12.612] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jul2025 01:02:13.061] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[16Jul2025 01:02:13.459] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[16Jul2025 01:02:13.529] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6469 ms
-[16Jul2025 01:02:13.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.561s)! For help, type "help"
-[16Jul2025 01:02:13.570] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Jul2025 01:06:47.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d7376a6[id=<null>,name=crushedtitan191,properties={},legacy=false] (/127.234.37.29:51181) lost connection: Disconnected
-[16Jul2025 01:12:17.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.234.37.29:58189] logged in with entity id 170 at (-262.29105273265765, 72.0, -65.21558476181481)
-[16Jul2025 01:12:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
-[16Jul2025 01:12:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made crushedtitan191 a server operator
-[16Jul2025 01:13:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
-[16Jul2025 01:13:20.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
-[16Jul2025 01:13:20.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
-[16Jul2025 01:36:28.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.234.37.29:52797] logged in with entity id 285 at (-262.67203591110405, 69.0, -65.50055407036432)
-[16Jul2025 01:36:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
-[16Jul2025 01:36:59.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
-[16Jul2025 01:36:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
-[16Jul2025 01:43:22.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:46515] logged in with entity id 359 at (-262.67203591110405, 69.0, -65.50055407036432)
-[16Jul2025 01:43:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
-[16Jul2025 01:43:48.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Survival Mode]
-[16Jul2025 01:46:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Gave 4 [Acacia Ship Helm] to crushedtitan191]
-[16Jul2025 01:46:28.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Gave 1 [Cyan Balloon] to crushedtitan191]
-[16Jul2025 01:46:41.347] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2 blocks, out of 32768 allowed
-[16Jul2025 01:46:44.892] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 75.87500834758491, -56.80106273666024] -> [-259.20208739861846, 77.6750082999012, 1.2290057650000006E7] returning empty list! this might break things
-[16Jul2025 01:46:49.924] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 75.13311582925962, -61.511995278122875] -> [-255.57987161270358, 76.9331157815759, 1.2290057650000006E7] returning empty list! this might break things
-[16Jul2025 01:46:54.925] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 74.4497112929821, -71.75530419126153] -> [-251.6924948580563, 76.30000001192093, 1.2290057650000006E7] returning empty list! this might break things
-[16Jul2025 01:47:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
-[16Jul2025 01:47:19.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
-[16Jul2025 01:47:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
-[16Jul2025 01:50:14.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:45831] logged in with entity id 965 at (-267.0147399001943, 72.0, -61.88307277590588)
-[16Jul2025 01:50:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
-[16Jul2025 01:50:39.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
-[16Jul2025 01:50:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
-[16Jul2025 02:19:23.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@402e601f[id=<null>,name=crushedtitan191,properties={},legacy=false] (/127.206.217.224:52209) lost connection: Disconnected
+[16Jul2025 05:21:27.696] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
+[16Jul2025 05:21:27.817] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3120 advancements
+[16Jul2025 05:21:30.550] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[16Jul2025 05:21:30.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Jul2025 05:21:30.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Jul2025 05:21:30.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Jul2025 05:21:30.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Jul2025 05:21:30.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Jul2025 05:21:30.877] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Jul2025 05:21:30.958] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Jul2025 05:21:30.959] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Jul2025 05:21:30.959] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Jul2025 05:21:30.959] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Jul2025 05:21:31.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Jul2025 05:21:32.397] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[16Jul2025 05:21:32.518] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[16Jul2025 05:21:35.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Jul2025 05:21:36.515] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:36.603] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:36.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:36.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:37.169] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:37.635] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Jul2025 05:21:37.824] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:38.497] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:38.636] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Jul2025 05:21:38.676] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:39.216] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:39.636] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Jul2025 05:21:39.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:40.157] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:40.638] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Jul2025 05:21:40.685] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:41.329] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jul2025 05:21:41.642] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Jul2025 05:21:41.657] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[16Jul2025 05:21:42.185] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[16Jul2025 05:21:42.459] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7303 ms
+[16Jul2025 05:21:42.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.488s)! For help, type "help"
+[16Jul2025 05:21:42.602] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Jul2025 05:21:42.643] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Jul2025 05:21:53.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:33237] logged in with entity id 133 at (-267.0147399001943, 72.0, -61.88307277590588)
+[16Jul2025 05:21:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[16Jul2025 05:22:38.024] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 73.25971753912745, -3.6587963737547398] -> [-255.57009608484805, 76.30000001192093, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 05:22:43.061] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 72.99971461202949, -4.734866637153603] -> [-254.88668797922355, 76.30000001192093, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 05:22:48.110] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 75.43516185777844, -19.540522840565245] -> [-255.06069118753953, 77.23516181009472, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 05:22:53.159] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 75.41488826912246, -34.316341289858] -> [-252.52594016803536, 77.21488822143874, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 05:22:58.160] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 75.38846709989593, -49.05655842328761] -> [-251.27937931922494, 77.18846705221222, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 05:23:03.212] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 74.60173140303232, -60.336403644455814] -> [-257.4671573074775, 76.4017313553486, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 05:23:16.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[16Jul2025 05:23:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
