@@ -993,3 +993,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [16Jul2025 01:13:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
 [16Jul2025 01:13:20.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
 [16Jul2025 01:13:20.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[16Jul2025 01:36:28.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.234.37.29:52797] logged in with entity id 285 at (-262.67203591110405, 69.0, -65.50055407036432)
+[16Jul2025 01:36:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[16Jul2025 01:36:59.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[16Jul2025 01:36:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
