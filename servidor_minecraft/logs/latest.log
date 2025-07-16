@@ -987,3 +987,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [16Jul2025 01:02:13.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.561s)! For help, type "help"
 [16Jul2025 01:02:13.570] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [16Jul2025 01:06:47.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d7376a6[id=<null>,name=crushedtitan191,properties={},legacy=false] (/127.234.37.29:51181) lost connection: Disconnected
+[16Jul2025 01:12:17.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.234.37.29:58189] logged in with entity id 170 at (-262.29105273265765, 72.0, -65.21558476181481)
+[16Jul2025 01:12:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[16Jul2025 01:12:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made crushedtitan191 a server operator
+[16Jul2025 01:13:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
+[16Jul2025 01:13:20.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[16Jul2025 01:13:20.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
