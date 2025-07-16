@@ -1013,3 +1013,4 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [16Jul2025 01:50:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
 [16Jul2025 01:50:39.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
 [16Jul2025 01:50:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[16Jul2025 02:19:23.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@402e601f[id=<null>,name=crushedtitan191,properties={},legacy=false] (/127.206.217.224:52209) lost connection: Disconnected
