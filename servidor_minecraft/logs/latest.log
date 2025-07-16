@@ -997,3 +997,19 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: forge:ore_dict
 [16Jul2025 01:36:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
 [16Jul2025 01:36:59.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
 [16Jul2025 01:36:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[16Jul2025 01:43:22.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:46515] logged in with entity id 359 at (-262.67203591110405, 69.0, -65.50055407036432)
+[16Jul2025 01:43:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[16Jul2025 01:43:48.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Survival Mode]
+[16Jul2025 01:46:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Gave 4 [Acacia Ship Helm] to crushedtitan191]
+[16Jul2025 01:46:28.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Gave 1 [Cyan Balloon] to crushedtitan191]
+[16Jul2025 01:46:41.347] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2 blocks, out of 32768 allowed
+[16Jul2025 01:46:44.892] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 75.87500834758491, -56.80106273666024] -> [-259.20208739861846, 77.6750082999012, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 01:46:49.924] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 75.13311582925962, -61.511995278122875] -> [-255.57987161270358, 76.9331157815759, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 01:46:54.925] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669941650000006E7, 74.4497112929821, -71.75530419126153] -> [-251.6924948580563, 76.30000001192093, 1.2290057650000006E7] returning empty list! this might break things
+[16Jul2025 01:47:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
+[16Jul2025 01:47:19.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[16Jul2025 01:47:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[16Jul2025 01:50:14.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:45831] logged in with entity id 965 at (-267.0147399001943, 72.0, -61.88307277590588)
+[16Jul2025 01:50:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[16Jul2025 01:50:39.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[16Jul2025 01:50:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
