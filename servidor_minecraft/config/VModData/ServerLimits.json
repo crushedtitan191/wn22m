@@ -1,15 +1,7 @@
 {
-  "maxForce" : {
-    "minValue" : -3.4028235E38,
-    "maxValue" : 3.4028235E38
-  },
-  "fixedDistance" : {
-    "minValue" : -3.4028235E38,
-    "maxValue" : 3.4028235E38
-  },
-  "maxDistance" : {
+  "stripRadius" : {
     "minValue" : 0.0,
-    "maxValue" : 100.0
+    "maxValue" : 10.0
   },
   "stiffness" : {
     "minValue" : -3.4028235E38,
@@ -20,10 +12,6 @@
     "maxValue" : 3.4028235E38
   },
   "extensionSpeed" : {
-    "minValue" : 0.001,
-    "maxValue" : 3.4028235E38
-  },
-  "extensionDistance" : {
     "minValue" : 0.001,
     "maxValue" : 3.4028235E38
   },
@@ -62,10 +50,6 @@
     "minValue" : 0.001,
     "maxValue" : 10.0
   },
-  "stripRadius" : {
-    "minValue" : 0.0,
-    "maxValue" : 10.0
-  },
   "massLimit" : {
     "minValue" : 4.9E-324,
     "maxValue" : 1.7976931348623157E308
@@ -81,6 +65,22 @@
   "sensorScale" : {
     "minValue" : 0.001,
     "maxValue" : 10.0
+  },
+  "maxDistance" : {
+    "minValue" : 0.0,
+    "maxValue" : 100.0
+  },
+  "maxForce" : {
+    "minValue" : -3.4028235E38,
+    "maxValue" : 3.4028235E38
+  },
+  "fixedDistance" : {
+    "minValue" : -3.4028235E38,
+    "maxValue" : 3.4028235E38
+  },
+  "extensionDistance" : {
+    "minValue" : 0.001,
+    "maxValue" : 3.4028235E38
   },
   "scale" : {
     "minValue" : 0.001,
