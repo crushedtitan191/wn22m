@@ -12383,3 +12383,8 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/multipl
 [17Jul2025 20:41:19.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jul2025 20:41:19.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jul2025 20:42:01.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[17Jul2025 20:46:19.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 20:46:19.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 20:51:19.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 20:51:19.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 20:52:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
