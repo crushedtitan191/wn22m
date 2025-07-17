@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-17 19:56:44 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_panel_from_conversion": {
     "criteria": {
       "has_item": "2025-07-17 19:34:18 +0000"
@@ -71,6 +77,12 @@
   "railways:recipes/combat/dying_existing_cap_light_blue": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-17 19:56:44 +0000"
     },
     "done": true
   },

@@ -12302,3 +12302,10 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/multipl
 [17Jul2025 19:52:44.845] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791871 : 768127
 [17Jul2025 19:52:44.845] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768126
 [17Jul2025 19:53:04.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[17Jul2025 19:56:19.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 19:56:19.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 19:57:26.757] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791874 : 768128
+[17Jul2025 19:57:26.757] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768129
+[17Jul2025 20:01:19.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 20:01:19.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 20:02:49.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]

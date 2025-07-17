@@ -1422,3 +1422,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/multipl
 [17Jul2025 19:51:38.107] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699515E7, 115.0, 109.06661112211907] -> [4.428052187810163, 152.17802553318947, 1.22900515E7] returning empty list! this might break things
 [17Jul2025 19:51:43.109] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699515E7, 115.0, 59.90164506435394] -> [7.854625044390559, 119.53595461755889, 1.22900515E7] returning empty list! this might break things
 [17Jul2025 19:53:04.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[17Jul2025 20:02:49.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
