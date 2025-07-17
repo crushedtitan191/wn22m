@@ -98,6 +98,12 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_block_from_slabs": {
+    "criteria": {
+      "has_item": "2025-07-17 20:04:19 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2025-07-17 19:30:45 +0000"
