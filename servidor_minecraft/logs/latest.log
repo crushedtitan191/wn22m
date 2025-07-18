@@ -51,3 +51,4 @@
 [18Jul2025 01:35:25.356] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699525E7, 80.19998788976457, -209.34533796831965] -> [-167.37511660903692, 112.0, 1.22900515E7] returning empty list! this might break things
 [18Jul2025 01:35:30.357] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699525E7, 80.19998788976456, -209.34533788636327] -> [-167.3751168511808, 112.0, 1.22900515E7] returning empty list! this might break things
 [18Jul2025 01:35:35.404] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699525E7, 80.19998788976454, -209.3453378137201] -> [-167.37511710077524, 112.0, 1.22900515E7] returning empty list! this might break things
+[18Jul2025 02:07:00.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
