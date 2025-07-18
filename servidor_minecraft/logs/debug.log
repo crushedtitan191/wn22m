@@ -14023,3 +14023,7 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/multipl
 [18Jul2025 01:35:35.404] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699525E7, 80.19998788976454, -209.3453378137201] -> [-167.37511710077524, 112.0, 1.22900515E7] returning empty list! this might break things
 [18Jul2025 01:36:19.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 01:36:19.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:41:19.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 01:41:19.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:46:19.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 01:46:19.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
