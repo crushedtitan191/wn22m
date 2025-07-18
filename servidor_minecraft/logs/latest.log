@@ -257,3 +257,34 @@
 [18Jul2025 04:29:40.679] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699525E7, 79.25796287693083, -320.1401017519631] -> [-201.66996749009581, 112.0, 1.22900515E7] returning empty list! this might break things
 [18Jul2025 04:29:45.710] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699525E7, 99.82163472981843, -270.86131020635366] -> [-206.6370373480022, 112.0, 1.22900515E7] returning empty list! this might break things
 [18Jul2025 04:29:50.759] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.86699525E7, 72.17044699006924, -208.16256315261126] -> [-192.58016708865762, 112.0, 1.22900515E7] returning empty list! this might break things
+[18Jul2025 04:35:13.970] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: crushedtitan191/f_22_raptor_fighter_jet_v1_ckb7kyyu0o.nbt
+[18Jul2025 04:35:43.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[18Jul2025 04:35:43.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.699] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.705] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:35:43.705] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:12.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:39455] logged in with entity id 103769 at (-213.3095434023038, 70.0, -211.33174366600718)
+[18Jul2025 04:36:12.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[18Jul2025 04:36:34.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[18Jul2025 04:36:34.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[18Jul2025 04:36:34.211] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:34.211] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:34.212] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:34.212] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:34.212] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:34.212] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:34.254] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:36:34.254] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:37:01.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:56225] logged in with entity id 104148 at (-211.89602444465348, 71.44998342815698, -217.8573005788263)
+[18Jul2025 04:37:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[18Jul2025 04:38:18.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[18Jul2025 04:38:24.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the weather to clear]
