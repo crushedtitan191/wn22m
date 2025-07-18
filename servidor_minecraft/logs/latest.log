@@ -65,3 +65,14 @@
 [18Jul2025 02:54:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Spectator Mode]
 [18Jul2025 02:54:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
 [18Jul2025 02:56:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[18Jul2025 03:00:25.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Spectator Mode]
+[18Jul2025 03:00:36.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
+[18Jul2025 03:00:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Spectator Mode]
+[18Jul2025 03:00:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Survival Mode]
+[18Jul2025 03:01:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
+[18Jul2025 03:01:37.137] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2005 blocks, out of 32768 allowed
+[18Jul2025 03:02:17.556] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8657657650000006E7, 89.0, -230.66472540982068] -> [-150.9843376763165, 91.60660879011266, 1.2290058650000006E7] returning empty list! this might break things
+[18Jul2025 03:04:04.604] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8657657650000006E7, 84.68433621269651, -205.87509224191308] -> [-150.88590778037906, 86.48433616501279, 1.2290083650000006E7] returning empty list! this might break things
+[18Jul2025 03:07:43.511] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2087 blocks, out of 32768 allowed
+[18Jul2025 03:07:57.185] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 10, but a ship with this ShipId does not exist!
+[18Jul2025 03:08:20.888] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2076 blocks, out of 32768 allowed
