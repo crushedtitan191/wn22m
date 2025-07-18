@@ -442,3 +442,13 @@
 [18Jul2025 05:31:23.006] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588032625E7, 129.82500000298023, 85.26091663821411] -> [61.10765294665913, 133.27634127438068, 1.2290053625E7] returning empty list! this might break things
 [18Jul2025 05:31:28.054] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588032625E7, 129.82500000298023, 102.76804379560053] -> [49.26148510446282, 133.2014408186078, 1.2290053625E7] returning empty list! this might break things
 [18Jul2025 05:31:33.055] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588032625E7, 129.82500000298023, 103.29635404111542] -> [50.26705305452789, 133.436478994579, 1.2290053625E7] returning empty list! this might break things
+[18Jul2025 05:34:51.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[18Jul2025 05:34:51.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 05:34:52.061] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
