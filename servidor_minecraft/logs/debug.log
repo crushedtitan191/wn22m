@@ -12500,3 +12500,28 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/multipl
 [18Jul2025 01:11:19.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jul2025 01:16:19.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 01:16:19.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:21:19.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 01:21:19.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:24:14.486] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[18Jul2025 01:24:14.486] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[18Jul2025 01:24:14.486] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768127
+[18Jul2025 01:24:14.486] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768126
+[18Jul2025 01:24:14.486] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791618 : 768127
+[18Jul2025 01:24:14.574] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f36d270f-9ac9-4975-ab05-5972563e42fe watched ships: [7]
+[18Jul2025 01:24:14.608] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[18Jul2025 01:24:14.608] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[18Jul2025 01:24:14.608] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768126
+[18Jul2025 01:24:18.719] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791360 : 768127
+[18Jul2025 01:24:18.719] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791361 : 768128
+[18Jul2025 01:24:18.719] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791361 : 768127
+[18Jul2025 01:24:18.719] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791361 : 768126
+[18Jul2025 01:24:18.719] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791362 : 768127
+[18Jul2025 01:24:18.822] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f36d270f-9ac9-4975-ab05-5972563e42fe watched ships: [8]
+[18Jul2025 01:24:18.847] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791360 : 768128
+[18Jul2025 01:24:18.848] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791360 : 768126
+[18Jul2025 01:24:18.848] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791359 : 768127
+[18Jul2025 01:25:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[18Jul2025 01:26:19.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 01:26:19.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 01:26:51.979] [Server thread/DEBUG] [mixin/]: Mixing cgm.MixinGunEnchantmentHelper from tallyho.mixins.json into com.mrcrayfish.guns.util.GunEnchantmentHelper
+[18Jul2025 01:26:51.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 has made the advancement [Monster Hunter]
