@@ -288,3 +288,20 @@
 [18Jul2025 04:37:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
 [18Jul2025 04:38:18.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
 [18Jul2025 04:38:24.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the weather to clear]
+[18Jul2025 04:41:52.963] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: crushedtitan191/air_ship_test3_na31bp5squ.nbt
+[18Jul2025 04:43:11.006] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588032625E7, 120.18749970808348, -269.7953911051154] -> [-277.2087107077241, 130.17499999701977, 1.2290045625E7] returning empty list! this might break things
+[18Jul2025 04:43:17.958] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8588032625E7, 120.18749970817645, -269.7953860461712] -> [-277.20871065184474, 130.17499999701977, 1.2290045625E7] returning empty list! this might break things
+[18Jul2025 04:43:28.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KickB20[/127.245.246.97:43955] logged in with entity id 105991 at (12.5, 105.0, 17.5)
+[18Jul2025 04:43:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KickB20 joined the game
+[18Jul2025 04:43:58.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KickB20 lost connection: Disconnected
+[18Jul2025 04:43:58.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KickB20 left the game
+[18Jul2025 04:43:58.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 04:45:15.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KickB20[/127.245.246.97:51277] logged in with entity id 106422 at (12.5, 105.0, 17.5)
+[18Jul2025 04:45:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KickB20 joined the game
+[18Jul2025 04:45:43.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Teleported KickB20 to crushedtitan191]
+[18Jul2025 04:45:45.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KickB20 lost connection: Timed out
+[18Jul2025 04:45:45.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KickB20 left the game
+[18Jul2025 04:49:42.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KickB20[/127.245.246.97:42011] logged in with entity id 107112 at (-283.83281308040023, 127.00000054791202, -257.6313647720963)
+[18Jul2025 04:49:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KickB20 joined the game
+[18Jul2025 04:50:12.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KickB20 lost connection: Timed out
+[18Jul2025 04:50:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KickB20 left the game
