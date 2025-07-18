@@ -5,9 +5,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_cyan": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -17,9 +35,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_red": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -47,15 +77,45 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_panel_from_conversion": {
     "criteria": {
       "has_item": "2025-07-17 19:34:18 +0000"
     },
     "done": true
   },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_magenta": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -77,6 +137,12 @@
       "has_brown_balloon": "2025-07-17 19:30:45 +0000",
       "has_green_balloon": "2025-07-17 19:30:45 +0000",
       "has_magenta_balloon": "2025-07-17 19:30:45 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/specialised_grip": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -104,9 +170,21 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/tactical_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_brown": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:46 +0000"
     },
     "done": true
   },
@@ -122,15 +200,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
       "has_gold": "2025-07-17 19:30:45 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_yellow": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -164,9 +260,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
   "create_connected:root": {
     "criteria": {
       "0": "2025-07-17 19:30:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -176,15 +326,51 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/weighted_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_purple": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_gray": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -206,9 +392,27 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/light_grip": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
     "criteria": {
       "has_item": "2025-07-17 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -218,9 +422,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-18 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -230,9 +446,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/combat/dying_existing_cap_blue": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -254,6 +488,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-17 19:42:16 +0000",
@@ -262,6 +502,12 @@
       "minecraft:plains": "2025-07-17 19:29:21 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
   },
   "railways:recipes/combat/dying_existing_cap_black": {
     "criteria": {
@@ -272,6 +518,24 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-17 19:34:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/gas_mask": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },

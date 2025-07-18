@@ -14064,3 +14064,10 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/multipl
 [18Jul2025 02:18:41.452] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from createdieselgenerators.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
 [18Jul2025 02:18:41.482] [Server thread/DEBUG] [mixin/]: Mixing compat.create.ContraptionColliderMixin from createbigcannons-common.mixins.json into com.simibubi.create.content.contraptions.ContraptionCollider
 [18Jul2025 02:18:41.484] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinContraptionCollider from valkyrienskies-common.mixins.json into com.simibubi.create.content.contraptions.ContraptionCollider
+[18Jul2025 02:20:42.106] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.accessors.Matrix3dAccessor from valkyrienskies-common.mixins.json into com.simibubi.create.foundation.collision.Matrix3d
+[18Jul2025 02:21:19.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 02:21:19.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 02:22:14.961] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Jul2025 02:22:38.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[18Jul2025 02:26:19.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 02:26:19.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
