@@ -1196,6 +1196,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-07-18 05:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-18 04:49:31 +0000"
@@ -1220,9 +1226,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-07-18 05:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-18 04:49:31 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-07-18 05:01:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-07-18 05:01:42 +0000"
     },
     "done": true
   },
