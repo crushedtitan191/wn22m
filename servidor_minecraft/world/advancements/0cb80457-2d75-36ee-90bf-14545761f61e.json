@@ -86,6 +86,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-07-18 02:11:46 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
     "criteria": {
       "has_item": "2025-07-17 19:56:44 +0000"
@@ -179,6 +185,12 @@
   "railways:recipes/combat/dying_existing_cap_gray": {
     "criteria": {
       "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-07-18 02:11:46 +0000"
     },
     "done": true
   },
