@@ -1171,9 +1171,16 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-07-18 03:41:15 +0000"
+      "0": "2025-07-18 03:41:15 +0000",
+      "1": "2025-07-18 03:56:33 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-07-18 03:56:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
