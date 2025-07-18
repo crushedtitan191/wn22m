@@ -90,3 +90,27 @@
 [18Jul2025 03:34:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
 [18Jul2025 03:35:54.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Spectator Mode]
 [18Jul2025 03:36:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
+[18Jul2025 03:43:17.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[18Jul2025 03:44:22.680] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 03:44:22.680] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 03:44:22.680] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 03:44:22.680] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 03:44:22.680] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 03:44:22.681] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 03:44:22.681] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 03:44:22.681] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 03:52:26.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crushedtitan191 lost connection: Disconnected
+[18Jul2025 03:52:26.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 left the game
+[18Jul2025 03:54:05.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crushedtitan191[/127.206.217.224:58653] logged in with entity id 83723 at (-383.9415209144354, 75.4999995990419, -281.6886625252664)
+[18Jul2025 03:54:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crushedtitan191 joined the game
+[18Jul2025 03:54:52.356] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: crushedtitan191/plane1_6811pzbld2.nbt
+[18Jul2025 03:56:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[18Jul2025 03:59:17.957] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 73.77134476312024, -328.8855987805873] -> [-426.66851007938385, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:22.957] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 73.77134530294371, -328.8855989156291] -> [-426.66851008683443, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:28.005] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 73.77134530292611, -328.8855989202857] -> [-426.6685102172196, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:33.009] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 73.7713453029261, -328.8855990320444] -> [-426.6685105934739, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:38.017] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 81.72213082182822, -301.33193461596966] -> [-434.77835512533784, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:43.125] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 129.82500000298023, -176.05423483827693] -> [-426.4599265906625, 152.21122911572456, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:48.157] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 101.16735385730863, -169.83080023844704] -> [-450.0695666121753, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:53.210] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 74.68451988697052, -181.53038391697652] -> [-466.6547702803937, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 03:59:58.256] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8604419625E7, 74.42786201275885, -180.15532682240783] -> [-465.81244944633374, 130.17499999701977, 1.2290048625E7] returning empty list! this might break things

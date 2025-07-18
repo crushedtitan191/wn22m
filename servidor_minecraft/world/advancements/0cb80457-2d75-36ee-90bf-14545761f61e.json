@@ -1,283 +1,22 @@
 {
-  "railways:recipes/combat/dying_existing_cap_light_gray": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-07-18 02:33:57 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
-    "criteria": {
-      "has_item": "2025-07-18 03:36:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_cyan": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-07-17 19:30:45 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
-    "criteria": {
-      "has_item": "2025-07-18 02:33:57 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 03:02:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
-    "criteria": {
-      "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_red": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
-    "criteria": {
-      "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-17 19:29:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_lots_of_items": "2025-07-17 19:36:46 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/stonecutting/palettes/cycling/gray_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_stairs_from_conversion": {
-    "criteria": {
-      "has_item": "2025-07-17 19:56:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2025-07-18 01:26:51 +0000"
+      "minecraft:river": "2025-07-17 19:42:16 +0000",
+      "minecraft:forest": "2025-07-17 19:40:32 +0000",
+      "minecraft:meadow": "2025-07-17 19:51:04 +0000",
+      "minecraft:plains": "2025-07-17 19:29:21 +0000"
     },
     "done": false
   },
-  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+  "create:root": {
     "criteria": {
-      "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-07-18 03:36:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_panel_from_conversion": {
-    "criteria": {
-      "has_item": "2025-07-17 19:34:18 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "vs_eureka:recipes/balloon_wool": {
-    "criteria": {
-      "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 03:02:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_magenta": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+      "0": "2025-07-17 19:30:45 +0000"
     },
     "done": true
   },
@@ -302,153 +41,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/clutch_from_conversion": {
-    "criteria": {
-      "has_item": "2025-07-18 02:55:28 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/specialised_grip": {
-    "criteria": {
-      "has_gray_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_light_blue": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematicannon": {
-    "criteria": {
-      "has_item": "2025-07-18 02:11:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_stairs": {
-    "criteria": {
-      "has_cut_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-18 02:56:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-07-18 03:11:07 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab": {
-    "criteria": {
-      "has_cut_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
-    "criteria": {
-      "has_item": "2025-07-17 19:56:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
       "has_leather": "2025-07-17 19:30:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/tactical_stock": {
-    "criteria": {
-      "has_gray_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_brown": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-07-18 01:26:51 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_block_from_slabs": {
-    "criteria": {
-      "has_item": "2025-07-17 20:04:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -458,93 +53,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
-    "criteria": {
-      "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_yellow": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
-    "criteria": {
-      "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_wall": {
-    "criteria": {
-      "has_polished_cut_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
   "vs_eureka:recipes/balloon_paper": {
     "criteria": {
       "has_paper": "2025-07-17 19:30:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2025-07-17 20:12:04 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/stonecutting/palettes/cycling/gray_flat_slashed_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/conductor_whistle": {
-    "criteria": {
-      "has_item": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/stonecutting/palettes/cycling/gray_plated_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_pink": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/stonecutting/palettes/cycling/gray_slashed_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
     },
     "done": true
   },
@@ -554,45 +65,243 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+  "create_connected:root": {
     "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+      "0": "2025-07-17 19:30:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "railways:recipes/combat/dying_existing_cap_light_gray": {
     "criteria": {
-      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+      "hasitem": "2025-07-17 19:34:05 +0000"
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_flat_riveted_locometal": {
+  "railways:recipes/combat/dying_existing_cap_cyan": {
     "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
+      "hasitem": "2025-07-17 19:34:05 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs": {
+  "railways:recipes/combat/dying_existing_cap_red": {
     "criteria": {
-      "has_polished_cut_andesite": "2025-07-18 02:54:37 +0000"
+      "hasitem": "2025-07-17 19:34:05 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+  "railways:recipes/combat/dying_existing_cap_magenta": {
     "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+      "hasitem": "2025-07-17 19:34:05 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+  "railways:recipes/combat/dying_existing_cap_light_blue": {
     "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+      "hasitem": "2025-07-17 19:34:05 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+  "railways:recipes/combat/dying_existing_cap_brown": {
     "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_yellow": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/conductor_whistle": {
+    "criteria": {
+      "has_item": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_pink": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_purple": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_gray": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_green": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_white": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_blue": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_orange": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_lime": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_black": {
+    "criteria": {
+      "hasitem": "2025-07-17 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_panel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-17 19:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-17 19:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-17 19:36:46 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/quickfiring_mechanism": {
+    "criteria": {
+      "has_lever": "2025-07-17 19:40:08 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-17 19:56:44 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-17 19:56:44 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_block_from_slabs": {
+    "criteria": {
+      "has_item": "2025-07-17 20:04:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-07-17 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-17 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2025-07-17 20:12:52 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/impact_fuze": {
+    "criteria": {
+      "has_impact_fuze_head": "2025-07-17 20:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-07-18 01:26:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-18 01:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-07-18 01:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-18 01:28:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-07-18 02:11:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-07-18 02:11:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -602,15 +311,135 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
     "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+      "has_seat": "2025-07-18 02:20:59 +0000"
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_flat_riveted_locometal": {
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-07-18 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/specialised_grip": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/tactical_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-18 02:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-18 02:22:58 +0000"
     },
     "done": true
   },
@@ -620,39 +449,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_wall": {
-    "criteria": {
-      "has_cut_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "create_connected:root": {
-    "criteria": {
-      "0": "2025-07-17 19:30:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -674,45 +473,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_slab": {
-    "criteria": {
-      "has_polished_cut_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:25 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/impact_fuze": {
-    "criteria": {
-      "has_impact_fuze_head": "2025-07-17 20:47:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
     },
     "done": true
   },
@@ -722,93 +485,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/stonecutting/palettes/cycling/gray_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_purple": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-07-18 03:02:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/stonecutting/palettes/cycling/gray_locometal_pillar": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_gray": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_table": {
-    "criteria": {
-      "has_item": "2025-07-18 02:11:46 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/quickfiring_mechanism": {
-    "criteria": {
-      "has_lever": "2025-07-17 19:40:08 +0000"
-    },
-    "done": true
-  },
-  "create:linked_controller": {
-    "criteria": {
-      "0": "2025-07-17 20:12:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
     },
     "done": true
   },
@@ -818,75 +497,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
-    "criteria": {
-      "has_item": "2025-07-17 20:12:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-07-18 02:56:47 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_green": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-07-18 02:57:34 +0000"
     },
     "done": true
   },
@@ -896,111 +509,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-07-18 01:28:21 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/combat/light_stock": {
     "criteria": {
       "has_gray_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_white": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/crank_wheel": {
-    "criteria": {
-      "has_item": "2025-07-18 03:36:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_blue": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
     },
     "done": true
   },
@@ -1010,114 +521,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/stonecutting/palettes/cycling/gray_locometal_smokebox": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_orange": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_lime": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2025-07-18 03:36:10 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2025-07-18 01:26:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-07-17 19:42:16 +0000",
-      "minecraft:forest": "2025-07-17 19:40:32 +0000",
-      "minecraft:meadow": "2025-07-17 19:51:04 +0000",
-      "minecraft:plains": "2025-07-17 19:29:21 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-07-18 02:22:58 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/combat/dying_existing_cap_black": {
-    "criteria": {
-      "hasitem": "2025-07-17 19:34:05 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_cogwheel": {
-    "criteria": {
-      "has_item": "2025-07-18 03:36:10 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_flat_riveted_locometal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-17 19:34:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-07-18 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-07-18 03:34:09 +0000"
     },
     "done": true
   },
@@ -1133,11 +539,641 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-18 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab": {
+    "criteria": {
+      "has_polished_cut_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 02:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-18 02:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-18 02:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-18 02:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 03:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 03:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-18 03:02:30 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 03:11:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:19:58 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_flat_riveted_locometal": {
     "criteria": {
       "has_item": "2025-07-18 03:19:58 +0000"
     },
     "done": true
+  },
+  "copycats:recipes/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-18 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs": {
+    "criteria": {
+      "has_cut_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab": {
+    "criteria": {
+      "has_cut_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall": {
+    "criteria": {
+      "has_cut_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-07-18 03:35:06 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-07-18 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-07-18 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-07-18 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-18 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-07-18 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-07-18 03:40:06 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 03:40:37 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-07-18 03:40:43 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 03:40:56 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-07-18 03:41:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
