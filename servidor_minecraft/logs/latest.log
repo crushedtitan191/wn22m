@@ -76,3 +76,5 @@
 [18Jul2025 03:07:43.511] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2087 blocks, out of 32768 allowed
 [18Jul2025 03:07:57.185] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 10, but a ship with this ShipId does not exist!
 [18Jul2025 03:08:20.888] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 2076 blocks, out of 32768 allowed
+[18Jul2025 03:12:48.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set the time to 1000]
+[18Jul2025 03:18:28.205] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 11, but a ship with this ShipId does not exist!

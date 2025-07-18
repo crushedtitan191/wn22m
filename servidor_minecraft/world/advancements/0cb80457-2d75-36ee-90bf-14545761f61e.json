@@ -230,6 +230,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 03:11:07 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_vertical_stairs_from_conversion": {
     "criteria": {
       "has_item": "2025-07-17 19:56:44 +0000"
@@ -431,6 +437,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab": {
     "criteria": {
       "has_polished_cut_andesite": "2025-07-18 02:54:37 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:25 +0000"
     },
     "done": true
   },
