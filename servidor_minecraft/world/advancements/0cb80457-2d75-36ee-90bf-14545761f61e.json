@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-07-18 04:23:25 +0000",
       "minecraft:river": "2025-07-17 19:42:16 +0000",
+      "minecraft:dripstone_caves": "2025-07-18 04:18:53 +0000",
       "minecraft:forest": "2025-07-17 19:40:32 +0000",
       "minecraft:meadow": "2025-07-17 19:51:04 +0000",
       "minecraft:plains": "2025-07-17 19:29:21 +0000"
