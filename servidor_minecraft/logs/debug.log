@@ -15255,3 +15255,442 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/multipl
 [18Jul2025 04:10:41.810] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [16]
 [18Jul2025 04:10:42.062] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768127
 [18Jul2025 04:10:42.258] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768127
+[18Jul2025 04:10:42.363] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[18Jul2025 04:10:42.462] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched physics entities: [15]
+[18Jul2025 04:10:42.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768127
+[18Jul2025 04:10:42.659] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched physics entities: [14]
+[18Jul2025 04:10:42.706] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768125
+[18Jul2025 04:10:43.009] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789823 : 768127
+[18Jul2025 04:10:43.307] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768126
+[18Jul2025 04:10:44.159] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -220.58751287279452] -> [-221.13757164155103, 159.58141948940218, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:10:48.962] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768126
+[18Jul2025 04:10:49.165] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -255.94310045536577] -> [-267.5893035122434, 139.44727602212276, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:10:49.770] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768127
+[18Jul2025 04:10:50.208] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768126
+[18Jul2025 04:10:50.361] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768130
+[18Jul2025 04:10:51.061] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768128
+[18Jul2025 04:10:51.314] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768127
+[18Jul2025 04:10:51.563] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768129
+[18Jul2025 04:10:52.806] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768128
+[18Jul2025 04:10:53.056] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768128
+[18Jul2025 04:10:53.112] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768127
+[18Jul2025 04:10:53.309] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789568 : 768126
+[18Jul2025 04:10:53.309] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768125
+[18Jul2025 04:10:53.514] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[18Jul2025 04:10:53.808] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768127
+[18Jul2025 04:10:54.209] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 123.68787345850856, -263.0092840000167] -> [-300.16103925329026, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:10:56.806] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768126
+[18Jul2025 04:11:16.508] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768129
+[18Jul2025 04:11:16.711] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768127
+[18Jul2025 04:11:17.306] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789570 : 768127
+[18Jul2025 04:11:17.306] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [17]
+[18Jul2025 04:11:19.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:11:19.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:11:40.207] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 121.11989879972087, -262.4890456736832] -> [-298.613998806302, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:11:45.210] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 124.19823045477078, -261.6386172584576] -> [-301.45756959811865, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:11:50.259] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 124.09723166578574, -262.21320338363853] -> [-301.3906619673351, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:01.763] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768126
+[18Jul2025 04:12:02.658] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768128
+[18Jul2025 04:12:03.458] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768125
+[18Jul2025 04:12:13.206] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 123.18749082169377, -267.90030786022544] -> [-304.8271717932075, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:17.712] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768127
+[18Jul2025 04:12:17.962] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768126
+[18Jul2025 04:12:17.962] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789059 : 768128
+[18Jul2025 04:12:18.207] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -283.2271800739238] -> [-326.37320253996796, 134.61129444091597, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:18.208] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789059 : 768127
+[18Jul2025 04:12:18.208] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [19]
+[18Jul2025 04:12:18.355] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768127
+[18Jul2025 04:12:18.388] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768128
+[18Jul2025 04:12:18.763] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768129
+[18Jul2025 04:12:18.763] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768126
+[18Jul2025 04:12:18.808] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768128
+[18Jul2025 04:12:18.809] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768127
+[18Jul2025 04:12:18.956] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768126
+[18Jul2025 04:12:19.163] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789823 : 768127
+[18Jul2025 04:12:19.261] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791871 : 768127
+[18Jul2025 04:12:19.409] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768126
+[18Jul2025 04:12:19.409] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768129
+[18Jul2025 04:12:19.511] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768127
+[18Jul2025 04:12:19.511] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768128
+[18Jul2025 04:12:19.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768128
+[18Jul2025 04:12:19.609] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768127
+[18Jul2025 04:12:19.609] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768126
+[18Jul2025 04:12:19.609] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768127
+[18Jul2025 04:12:19.609] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched physics entities [15]
+[18Jul2025 04:12:19.659] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched physics entities [14]
+[18Jul2025 04:12:20.207] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768127
+[18Jul2025 04:12:20.964] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768127
+[18Jul2025 04:12:20.965] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [16]
+[18Jul2025 04:12:23.006] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768127
+[18Jul2025 04:12:23.006] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [24]
+[18Jul2025 04:12:23.222] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -279.2560392484976] -> [-364.69958503937505, 141.56281662359834, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:23.222] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768128
+[18Jul2025 04:12:23.405] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:12:23.482] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768127
+[18Jul2025 04:12:23.607] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768128
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.729] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.767] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.767] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:23.808] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768129
+[18Jul2025 04:12:23.862] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:12:23.911] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768127
+[18Jul2025 04:12:24.055] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768128
+[18Jul2025 04:12:24.208] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788546 : 768127
+[18Jul2025 04:12:24.257] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768129
+[18Jul2025 04:12:24.406] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768127
+[18Jul2025 04:12:24.406] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788546 : 768128
+[18Jul2025 04:12:24.406] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [21]
+[18Jul2025 04:12:24.589] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768128
+[18Jul2025 04:12:24.931] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788799 : 768127
+[18Jul2025 04:12:24.957] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791874 : 768128
+[18Jul2025 04:12:25.009] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788799 : 768128
+[18Jul2025 04:12:25.009] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768128
+[18Jul2025 04:12:25.057] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768128
+[18Jul2025 04:12:25.105] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791871 : 768128
+[18Jul2025 04:12:25.225] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768126
+[18Jul2025 04:12:25.555] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768127
+[18Jul2025 04:12:26.056] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788801 : 768126
+[18Jul2025 04:12:26.109] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768128
+[18Jul2025 04:12:28.257] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 126.92923087067902, -152.68266079358156] -> [-342.4531556226862, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:29.306] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791871 : 768128
+[18Jul2025 04:12:29.806] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768128
+[18Jul2025 04:12:30.069] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791871 : 768127
+[18Jul2025 04:12:30.112] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768128
+[18Jul2025 04:12:30.310] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768127
+[18Jul2025 04:12:30.666] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791874 : 768128
+[18Jul2025 04:12:30.666] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768127
+[18Jul2025 04:12:30.813] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768126
+[18Jul2025 04:12:30.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768129
+[18Jul2025 04:12:30.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788546 : 768128
+[18Jul2025 04:12:30.914] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [21]
+[18Jul2025 04:12:31.048] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768128
+[18Jul2025 04:12:31.104] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789059 : 768127
+[18Jul2025 04:12:31.104] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789059 : 768128
+[18Jul2025 04:12:31.104] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [19]
+[18Jul2025 04:12:31.220] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768128
+[18Jul2025 04:12:31.318] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768129
+[18Jul2025 04:12:31.318] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788799 : 768128
+[18Jul2025 04:12:31.407] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788546 : 768127
+[18Jul2025 04:12:31.612] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768127
+[18Jul2025 04:12:31.669] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768126
+[18Jul2025 04:12:31.669] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768128
+[18Jul2025 04:12:31.669] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768128
+[18Jul2025 04:12:31.669] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768127
+[18Jul2025 04:12:31.715] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768129
+[18Jul2025 04:12:31.715] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768127
+[18Jul2025 04:12:31.916] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768128
+[18Jul2025 04:12:31.916] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788799 : 768127
+[18Jul2025 04:12:31.916] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [16]
+[18Jul2025 04:12:31.986] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768129
+[18Jul2025 04:12:32.052] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768127
+[18Jul2025 04:12:32.052] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched physics entities: [15]
+[18Jul2025 04:12:32.102] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768127
+[18Jul2025 04:12:32.102] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768128
+[18Jul2025 04:12:32.102] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768129
+[18Jul2025 04:12:32.102] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched physics entities: [14]
+[18Jul2025 04:12:32.125] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768127
+[18Jul2025 04:12:32.168] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768126
+[18Jul2025 04:12:32.168] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768127
+[18Jul2025 04:12:32.168] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768126
+[18Jul2025 04:12:32.267] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768128
+[18Jul2025 04:12:32.313] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768125
+[18Jul2025 04:12:32.366] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789823 : 768127
+[18Jul2025 04:12:32.366] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768129
+[18Jul2025 04:12:32.366] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768128
+[18Jul2025 04:12:32.464] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768126
+[18Jul2025 04:12:32.464] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788801 : 768126
+[18Jul2025 04:12:32.464] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768127
+[18Jul2025 04:12:32.516] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768126
+[18Jul2025 04:12:32.516] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768126
+[18Jul2025 04:12:32.516] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768130
+[18Jul2025 04:12:32.563] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768128
+[18Jul2025 04:12:32.760] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768128
+[18Jul2025 04:12:32.883] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768126
+[18Jul2025 04:12:32.883] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768128
+[18Jul2025 04:12:32.931] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768127
+[18Jul2025 04:12:32.931] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768125
+[18Jul2025 04:12:32.931] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768127
+[18Jul2025 04:12:32.969] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768128
+[18Jul2025 04:12:33.062] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768129
+[18Jul2025 04:12:33.062] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768127
+[18Jul2025 04:12:33.133] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768127
+[18Jul2025 04:12:33.263] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 98.03000538650575, -200.13829632126192] -> [-218.6314452206615, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:33.313] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768127
+[18Jul2025 04:12:33.616] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768127
+[18Jul2025 04:12:33.913] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:12:34.011] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789055 : 768126
+[18Jul2025 04:12:34.212] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768128
+[18Jul2025 04:12:34.316] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:12:34.316] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [24]
+[18Jul2025 04:12:34.615] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789570 : 768127
+[18Jul2025 04:12:34.615] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [17]
+[18Jul2025 04:12:34.961] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[18Jul2025 04:12:35.026] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768127
+[18Jul2025 04:12:35.216] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768126
+[18Jul2025 04:12:38.040] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768130
+[18Jul2025 04:12:38.114] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768129
+[18Jul2025 04:12:38.278] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 116.1263663712889, -313.0130616389215] -> [-249.10491649166391, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:38.361] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768128
+[18Jul2025 04:12:38.361] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768129
+[18Jul2025 04:12:38.561] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789055 : 768126
+[18Jul2025 04:12:38.613] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768129
+[18Jul2025 04:12:38.659] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768127
+[18Jul2025 04:12:38.716] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768128
+[18Jul2025 04:12:39.062] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768126
+[18Jul2025 04:12:39.127] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768128
+[18Jul2025 04:12:39.127] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768126
+[18Jul2025 04:12:39.193] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768128
+[18Jul2025 04:12:39.194] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789569 : 768127
+[18Jul2025 04:12:39.194] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768127
+[18Jul2025 04:12:39.256] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789570 : 768127
+[18Jul2025 04:12:39.256] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [17]
+[18Jul2025 04:12:39.330] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768127
+[18Jul2025 04:12:39.330] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789056 : 768125
+[18Jul2025 04:12:39.459] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768128
+[18Jul2025 04:12:39.460] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768126
+[18Jul2025 04:12:39.509] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768127
+[18Jul2025 04:12:39.509] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789059 : 768128
+[18Jul2025 04:12:39.770] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789057 : 768125
+[18Jul2025 04:12:39.814] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789058 : 768126
+[18Jul2025 04:12:39.867] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789059 : 768127
+[18Jul2025 04:12:39.867] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [19]
+[18Jul2025 04:12:40.513] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768128
+[18Jul2025 04:12:40.562] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788543 : 768127
+[18Jul2025 04:12:40.833] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768129
+[18Jul2025 04:12:40.910] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768126
+[18Jul2025 04:12:40.991] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768128
+[18Jul2025 04:12:41.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768127
+[18Jul2025 04:12:41.207] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788544 : 768126
+[18Jul2025 04:12:41.207] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791871 : 768127
+[18Jul2025 04:12:42.106] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768129
+[18Jul2025 04:12:42.358] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789823 : 768127
+[18Jul2025 04:12:42.556] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768127
+[18Jul2025 04:12:42.907] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768128
+[18Jul2025 04:12:43.307] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 106.38395780142791, -324.2197113046664] -> [-359.7194887223758, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:43.656] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768127
+[18Jul2025 04:12:43.808] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788545 : 768126
+[18Jul2025 04:12:46.205] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768127
+[18Jul2025 04:12:46.205] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768128
+[18Jul2025 04:12:46.206] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [24]
+[18Jul2025 04:12:46.335] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768128
+[18Jul2025 04:12:46.443] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768126
+[18Jul2025 04:12:46.443] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789824 : 768127
+[18Jul2025 04:12:46.443] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.443] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.443] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.444] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.445] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 15, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.445] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 14, but a ship with this ShipId does not exist!
+[18Jul2025 04:12:46.446] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched physics entities [14, 15]
+[18Jul2025 04:12:46.567] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:12:46.620] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768127
+[18Jul2025 04:12:46.709] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768128
+[18Jul2025 04:12:46.860] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768129
+[18Jul2025 04:12:46.957] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768127
+[18Jul2025 04:12:46.957] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1789825 : 768127
+[18Jul2025 04:12:46.957] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [16]
+[18Jul2025 04:12:47.157] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:12:47.157] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768127
+[18Jul2025 04:12:47.157] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768128
+[18Jul2025 04:12:47.157] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788546 : 768127
+[18Jul2025 04:12:47.222] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788546 : 768128
+[18Jul2025 04:12:47.223] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [21]
+[18Jul2025 04:12:47.259] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768129
+[18Jul2025 04:12:47.568] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791871 : 768128
+[18Jul2025 04:12:47.766] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768127
+[18Jul2025 04:12:47.816] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768128
+[18Jul2025 04:12:47.865] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768128
+[18Jul2025 04:12:47.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768128
+[18Jul2025 04:12:47.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791874 : 768128
+[18Jul2025 04:12:48.372] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 86.89477522861945, -256.0277905529623] -> [-401.2343530374281, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:12:48.372] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788799 : 768127
+[18Jul2025 04:12:48.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788799 : 768128
+[18Jul2025 04:12:49.260] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768126
+[18Jul2025 04:12:49.462] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791873 : 768129
+[18Jul2025 04:12:49.511] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791872 : 768129
+[18Jul2025 04:12:49.511] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [6]
+[18Jul2025 04:12:49.658] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768127
+[18Jul2025 04:12:50.013] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768128
+[18Jul2025 04:12:50.213] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788800 : 768129
+[18Jul2025 04:12:50.610] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788801 : 768126
+[18Jul2025 04:12:51.056] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788801 : 768127
+[18Jul2025 04:12:53.407] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 71.90852581017477, -228.41317360560814] -> [-424.0834954645963, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:13:22.705] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788801 : 768128
+[18Jul2025 04:14:02.255] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 71.18749776443605, -228.5977447628975] -> [-423.93546142056584, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:14:07.271] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 72.61939376796272, -220.34079148992896] -> [-431.16951712593436, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:14:07.272] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788801 : 768129
+[18Jul2025 04:14:07.422] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788802 : 768127
+[18Jul2025 04:14:07.564] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788802 : 768128
+[18Jul2025 04:14:07.565] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [20]
+[18Jul2025 04:14:12.309] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 67.8789039440453, -190.40488019489044] -> [-451.0, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:14:17.356] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 68.2580541074276, -189.6664048935486] -> [-451.0729686338316, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:14:22.357] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 69.05095494911075, -188.77958697415608] -> [-450.51614507982015, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:14:59.204] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 72.18749716318533, -188.93914028257132] -> [-440.13144375383854, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:04.207] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 72.33376741134323, -191.36070181056857] -> [-440.5410133562982, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:09.209] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 102.1270970780451, -266.9768872037546] -> [-486.9293300843441, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:11.940] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:15:11.940] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:15:12.259] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768126
+[18Jul2025 04:15:12.452] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768127
+[18Jul2025 04:15:12.529] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768129
+[18Jul2025 04:15:12.530] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768128
+[18Jul2025 04:15:12.828] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768126
+[18Jul2025 04:15:12.864] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768127
+[18Jul2025 04:15:12.956] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768128
+[18Jul2025 04:15:13.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768129
+[18Jul2025 04:15:13.413] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768127
+[18Jul2025 04:15:13.530] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:15:13.531] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:15:13.531] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768128
+[18Jul2025 04:15:13.535] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [22]
+[18Jul2025 04:15:14.226] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 123.31071535336984, -181.55392629077988] -> [-608.5385708831199, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:19.256] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -97.04986808641213] -> [-517.0916059350651, 157.49995437264442, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:24.268] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -47.32007161155343] -> [-431.1876731612127, 194.95419719063824, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:26.006] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:15:26.655] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:15:29.304] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -137.0237843933496] -> [-382.0016888400089, 152.2560141069946, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:29.504] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768129
+[18Jul2025 04:15:29.504] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768129
+[18Jul2025 04:15:29.504] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [22]
+[18Jul2025 04:15:30.204] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768128
+[18Jul2025 04:15:30.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768128
+[18Jul2025 04:15:30.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768128
+[18Jul2025 04:15:30.310] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:15:31.154] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768127
+[18Jul2025 04:15:31.215] [Server thread/DEBUG] [mixin/]: Mixing MixinExplosionDamageCalculator from railways-common.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[18Jul2025 04:15:31.262] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768127
+[18Jul2025 04:15:31.262] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768127
+[18Jul2025 04:15:31.308] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:15:32.556] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768126
+[18Jul2025 04:15:32.659] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768126
+[18Jul2025 04:15:34.309] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -201.27200610777643] -> [-410.28897983068236, 155.26415585436692, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:39.354] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -186.47500587798268] -> [-452.3711441599282, 146.85138833686983, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:44.857] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768126
+[18Jul2025 04:15:45.307] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:15:46.156] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768126
+[18Jul2025 04:15:47.154] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768127
+[18Jul2025 04:15:48.208] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:15:48.258] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768127
+[18Jul2025 04:15:49.256] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768127
+[18Jul2025 04:15:52.907] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -93.64023597932912] -> [-444.1968743068043, 135.39744235608902, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:15:57.955] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 120.6812824865442, -134.3384738449693] -> [-441.72529426751066, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:00.255] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788290 : 768127
+[18Jul2025 04:16:00.955] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768127
+[18Jul2025 04:16:02.005] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:16:02.160] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768127
+[18Jul2025 04:16:02.505] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768126
+[18Jul2025 04:16:02.957] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 113.86052954611601, -191.8859130218625] -> [-462.8841384574771, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:03.704] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768126
+[18Jul2025 04:16:03.809] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:16:08.006] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -284.87390967831016] -> [-461.30431012222255, 152.67351526512454, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:09.505] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768127
+[18Jul2025 04:16:09.706] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768128
+[18Jul2025 04:16:09.806] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:16:10.118] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768127
+[18Jul2025 04:16:10.308] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:16:10.308] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768128
+[18Jul2025 04:16:10.408] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768129
+[18Jul2025 04:16:10.556] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768127
+[18Jul2025 04:16:10.758] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768128
+[18Jul2025 04:16:10.916] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768129
+[18Jul2025 04:16:10.958] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768127
+[18Jul2025 04:16:11.212] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768128
+[18Jul2025 04:16:11.212] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 unwatched ships [24]
+[18Jul2025 04:16:13.055] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -382.42265743017197] -> [-464.1561382189393, 202.17841534019814, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:18.055] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -393.2054633606352] -> [-472.24216996543885, 197.05163894866152, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:19.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:16:19.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:16:20.684] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768129
+[18Jul2025 04:16:20.861] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:16:20.910] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768129
+[18Jul2025 04:16:21.183] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768128
+[18Jul2025 04:16:21.251] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:16:21.664] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768128
+[18Jul2025 04:16:22.008] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768127
+[18Jul2025 04:16:23.105] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -368.51345664529515] -> [-534.0829821216901, 183.66078215933825, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:28.106] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -304.9544383514896] -> [-544.9039492217935, 165.2104912857234, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:31.205] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768128
+[18Jul2025 04:16:31.256] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788289 : 768129
+[18Jul2025 04:16:31.406] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768129
+[18Jul2025 04:16:31.406] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768128
+[18Jul2025 04:16:31.406] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [24]
+[18Jul2025 04:16:31.628] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768127
+[18Jul2025 04:16:31.677] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768128
+[18Jul2025 04:16:31.760] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768129
+[18Jul2025 04:16:31.760] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768128
+[18Jul2025 04:16:31.812] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787778 : 768127
+[18Jul2025 04:16:31.863] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768129
+[18Jul2025 04:16:32.156] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768127
+[18Jul2025 04:16:32.208] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:16:32.208] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768128
+[18Jul2025 04:16:32.208] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:16:32.509] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:16:32.564] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768127
+[18Jul2025 04:16:32.760] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768128
+[18Jul2025 04:16:32.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:16:33.009] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768127
+[18Jul2025 04:16:33.155] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 103.9715126108643, -259.2723654098809] -> [-466.2058542687446, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:38.203] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -207.1025201501759] -> [-444.98306009732187, 199.29374351724982, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:41.153] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:16:41.553] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768126
+[18Jul2025 04:16:41.728] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:16:43.206] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 130.82500000298023, -200.25333844665164] -> [-536.9723022934138, 178.17584970220923, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:47.507] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768128
+[18Jul2025 04:16:47.556] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788288 : 768126
+[18Jul2025 04:16:47.906] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1788287 : 768127
+[18Jul2025 04:16:48.206] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 84.95820431104212, -218.94997077630927] -> [-479.20651277142196, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:53.207] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 90.28325644141904, -281.8249853144846] -> [-419.7407073472441, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:16:58.210] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 86.08034550695056, -285.9065792336351] -> [-404.13136940916684, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:17:03.005] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768127
+[18Jul2025 04:17:03.133] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768128
+[18Jul2025 04:17:03.211] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 105.59088570328242, -341.0971524957858] -> [-406.6441117612125, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:17:03.657] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:17:03.808] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768127
+[18Jul2025 04:17:03.978] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768128
+[18Jul2025 04:17:04.011] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768129
+[18Jul2025 04:17:04.607] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:17:05.214] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768127
+[18Jul2025 04:17:08.257] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 120.90051350742579, -307.54860804871595] -> [-515.7298157132026, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:17:09.305] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768129
+[18Jul2025 04:17:09.708] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768128
+[18Jul2025 04:17:09.940] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768127
+[18Jul2025 04:17:10.311] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768128
+[18Jul2025 04:17:10.505] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768127
+[18Jul2025 04:17:11.056] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787777 : 768126
+[18Jul2025 04:17:11.157] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787775 : 768127
+[18Jul2025 04:17:11.607] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787776 : 768126
+[18Jul2025 04:17:13.257] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 101.67912240792066, -227.23333784438614] -> [-501.82232288641916, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:17:18.308] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 76.2419241276383, -230.06833590723647] -> [-485.5434376972772, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:18:45.956] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 72.72465816774555, -234.08925231173635] -> [-473.37872787564993, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:18:50.962] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 72.6749601118279, -234.08925212174654] -> [-473.3787272069603, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:18:56.007] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8600323625E7, 21.475569981398905, -223.78961781696216] -> [-463.6755707107654, 131.17499999701977, 1.2290048625E7] returning empty list! this might break things
+[18Jul2025 04:19:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Spectator Mode]
+[18Jul2025 04:19:53.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crushedtitan191: Set own game mode to Creative Mode]
+[18Jul2025 04:20:05.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768127
+[18Jul2025 04:20:05.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768128
+[18Jul2025 04:20:05.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768127
+[18Jul2025 04:20:05.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768127
+[18Jul2025 04:20:05.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768126
+[18Jul2025 04:20:05.100] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4a144243-b04b-4966-b4fe-92974e7cf341 watched ships: [26]
+[18Jul2025 04:20:11.211] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768128
+[18Jul2025 04:20:11.211] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787263 : 768128
+[18Jul2025 04:20:11.211] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768126
+[18Jul2025 04:20:11.211] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787264 : 768129
+[18Jul2025 04:20:11.212] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787265 : 768129
+[18Jul2025 04:20:11.212] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787266 : 768127
+[18Jul2025 04:20:11.212] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1787266 : 768128
