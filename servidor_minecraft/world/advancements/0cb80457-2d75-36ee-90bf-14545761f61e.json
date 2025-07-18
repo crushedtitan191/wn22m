@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-18 02:33:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-07-18 02:20:59 +0000"
@@ -32,6 +38,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-07-17 19:30:45 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-07-18 02:33:57 +0000"
     },
     "done": true
   },
